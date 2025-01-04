@@ -1,6 +1,6 @@
 'use client';
 
-import { ActionIcon, CopyButton } from '@lobehub/ui';
+import { ActionIcon, CopyButton } from '@bentwnghk/ui';
 import { createStyles } from 'antd-style';
 import { Link } from 'dumi';
 import { DownloadIcon, SearchIcon } from 'lucide-react';
