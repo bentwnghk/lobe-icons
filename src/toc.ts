@@ -1542,7 +1542,7 @@ const toc: IconToc[] = [
       hasTextCn: false,
       hasTextColor: false,
     },
-    title: 'OpenAI',
+    title: 'Mr.5 AI',
   },
   {
     color: '#4A7FE3',
