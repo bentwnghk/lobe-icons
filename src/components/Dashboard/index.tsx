@@ -1,7 +1,7 @@
 'use client';
 
-import * as Icons from '@lobehub/icons';
-import { Grid, SearchBar } from '@lobehub/ui';
+import * as Icons from '@bentwnghk/icons';
+import { Grid, SearchBar } from '@bentwnghk/ui';
 import { Segmented } from 'antd';
 import { useTheme } from 'antd-style';
 import { memo, useMemo, useState } from 'react';
