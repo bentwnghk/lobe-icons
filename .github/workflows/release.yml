@@ -45,8 +45,8 @@ jobs:
       - name: Commit changes
         run: |-
           git diff
-          git config --global user.name "lobehubbot"
-          git config --global user.email "i@lobehub.com"
+          git config --global user.name "bentwnghk"
+          git config --global user.email "mr.ng@mystudies.net"
           git add .
           git commit -m "✨ feat(auto): Auto build static icons" || exit 0
           git push
