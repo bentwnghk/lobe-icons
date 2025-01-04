@@ -1,7 +1,7 @@
 'use client';
 
-import * as Icons from '@lobehub/icons';
-import { StoryBook, useControls, useCreateStore } from '@lobehub/ui';
+import * as Icons from '@bentwnghk/icons';
+import { StoryBook, useControls, useCreateStore } from '@bentwnghk/ui';
 import { createStyles } from 'antd-style';
 import { memo } from 'react';
 import { Flexbox } from 'react-layout-kit';
