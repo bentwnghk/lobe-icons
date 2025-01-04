@@ -193,7 +193,10 @@ We provide a CDN service (`@bentwnghk/icons-static-png`) which allows you to use
     media="(prefers-color-scheme: dark)"
     srcset="https://unpkg.com/@bentwnghk/icons-static-png@latest/dark/[ICON SLUG].png"
   />
-  <img height="64" src="https://unpkg.com/@bentwnghk/icons-static-png@latest/light/[ICON SLUG].png" />
+  <img
+    height="64"
+    src="https://unpkg.com/@bentwnghk/icons-static-png@latest/light/[ICON SLUG].png"
+  />
 </picture>
 
 <!--ALIYUN-->
@@ -251,7 +254,10 @@ We provide a CDN service (`@bentwnghk/icons-static-png`) which allows you to use
     media="(prefers-color-scheme: dark)"
     srcset="https://unpkg.com/@bentwnghk/icons-static-png@latest/dark/openai-text.png"
   />
-  <img height="64" src="https://unpkg.com/@bentwnghk/icons-static-png@latest/light/openai-text.png" />
+  <img
+    height="64"
+    src="https://unpkg.com/@bentwnghk/icons-static-png@latest/light/openai-text.png"
+  />
 </picture>
 
 <!--ALIYUN-->
@@ -322,7 +328,9 @@ We provide a CDN service (`@bentwnghk/icons-static-webp`) which allows you to us
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai.webp"
+    srcset="
+      https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai.webp
+    "
   />
   <img
     height="64"
@@ -368,8 +376,8 @@ We provide a CDN service (`@bentwnghk/icons-static-webp`) which allows you to us
 
 ### Static Packages
 
-| Package                                                                                | FileType | Version                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Package                                                                                    | FileType | Version                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [@bentwnghk/icons-static-svg](https://www.npmjs.com/package/@bentwnghk/icons-static-svg)   | `SVG`    | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-svg?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-svg)   |
 | [@bentwnghk/icons-static-png](https://www.npmjs.com/package/@bentwnghk/icons-static-png)   | `PNG`    | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-png)   |
 | [@bentwnghk/icons-static-webp](https://www.npmjs.com/package/@bentwnghk/icons-static-webp) | `WEBP`   | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-webp) |
