@@ -3,8 +3,8 @@ nav: Components
 group: Features
 title: ProviderIcon
 apiHeader:
-  docUrl: 'https://github.com/lobehub/lobe-icons/tree/master/docs/features/provider-icon.md'
-  sourceUrl: 'https://github.com/lobehub/lobe-icons/tree/master/src/features/ProviderIcon/index.tsx'
+  docUrl: 'https://github.com/bentwnghk/lobe-icons/tree/master/docs/features/provider-icon.md'
+  sourceUrl: 'https://github.com/bentwnghk/lobe-icons/tree/master/src/features/ProviderIcon/index.tsx'
 ---
 
 ## Default
@@ -29,5 +29,5 @@ apiHeader:
 
 ## Config
 
-- **Enum:** <https://github.com/lobehub/lobe-icons/blob/master/src/features/providerEnum.ts>
-- **Config:** <https://github.com/lobehub/lobe-icons/blob/master/src/features/providerConfig.tsx>
+- **Enum:** <https://github.com/bentwnghk/lobe-icons/blob/master/src/features/providerEnum.ts>
+- **Config:** <https://github.com/bentwnghk/lobe-icons/blob/master/src/features/providerConfig.tsx>

@@ -46,7 +46,7 @@ const themeConfig: SiteThemeConfig = {
   giscus: {
     category: 'Q&A',
     categoryId: 'DIC_kwDOLLYRIs4Cin-i',
-    repo: 'lobehub/lobe-icons',
+    repo: 'bentwnghk/lobe-icons',
     repoId: 'R_kgDOLLYRIg',
   },
   metadata: {

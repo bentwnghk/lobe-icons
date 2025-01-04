@@ -9,13 +9,13 @@
     "react components",
     "svg icons"
   ],
-  "homepage": "https://github.com/lobehub/lobe-icons",
+  "homepage": "https://github.com/bentwnghk/lobe-icons",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-icons/issues/new"
+    "url": "https://github.com/bentwnghk/lobe-icons/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-icons.git"
+    "url": "https://github.com/bentwnghk/lobe-icons.git"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",

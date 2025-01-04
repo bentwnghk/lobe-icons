@@ -5,8 +5,8 @@ group:
   order: 999
 title: getLobeIconCDN
 apiHeader:
-  docUrl: 'https://github.com/lobehub/lobe-icons/tree/master/docs/features/cdn-utils.md'
-  sourceUrl: 'https://github.com/lobehub/lobe-icons/tree/master/src/features/getLobeIconCDN/index.tsx'
+  docUrl: 'https://github.com/bentwnghk/lobe-icons/tree/master/docs/features/cdn-utils.md'
+  sourceUrl: 'https://github.com/bentwnghk/lobe-icons/tree/master/src/features/getLobeIconCDN/index.tsx'
 ---
 
 ## Default

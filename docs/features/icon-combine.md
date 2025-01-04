@@ -5,7 +5,7 @@ group:
   order: 10
 title: IconCombine
 apiHeader:
-  docUrl: 'https://github.com/lobehub/lobe-icons/tree/master/docs/features/icon-combine.md'
+  docUrl: 'https://github.com/bentwnghk/lobe-icons/tree/master/docs/features/icon-combine.md'
   sourceUrl: 'https://github.com/lobehub/lobe-ui/tree/master/src/features/IconCombine/index.tsx'
 ---
 
