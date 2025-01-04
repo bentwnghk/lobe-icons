@@ -14,7 +14,7 @@ const Icon: IconType = forwardRef(({ size = '1em', style, ...rest }, ref) => {
       height={size}
       ref={ref}
       style={{ flex: 'none', lineHeight: 1, ...style }}
-      viewBox="0 0 84 24"
+      viewBox="0 0 105 24"
       xmlns="http://www.w3.org/2000/svg"
       {...rest}
     >
