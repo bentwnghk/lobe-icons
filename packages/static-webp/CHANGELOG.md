@@ -2,6 +2,63 @@
 
 # Changelog
 
+## Version 1.0.0
+
+<sup>Released on **2025-01-04**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons.
+- **misc**: Add Dify, Poe, Cursor, MyShell, DeepAI and Tiangong, Add static packages, Update static workflow, Update workflow and dashboard.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix build.
+
+#### 💄 Styles
+
+- **misc**: Fix Cursor icon.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([6b57d5c](https://github.com/bentwnghk/lobe-icons/commit/6b57d5c))
+- **auto**: Auto build static icons ([fed77cb](https://github.com/bentwnghk/lobe-icons/commit/fed77cb))
+- **auto**: Auto build static icons ([3646e7c](https://github.com/bentwnghk/lobe-icons/commit/3646e7c))
+- **auto**: Auto build static icons ([328e85b](https://github.com/bentwnghk/lobe-icons/commit/328e85b))
+- **auto**: Auto build static icons ([bf3f13a](https://github.com/bentwnghk/lobe-icons/commit/bf3f13a))
+- **auto**: Auto build static icons ([d196d93](https://github.com/bentwnghk/lobe-icons/commit/d196d93))
+- **auto**: Auto build static icons ([5a95f32](https://github.com/bentwnghk/lobe-icons/commit/5a95f32))
+- **auto**: Auto build static icons ([0b825c4](https://github.com/bentwnghk/lobe-icons/commit/0b825c4))
+- **auto**: Auto build static icons ([9eda6c5](https://github.com/bentwnghk/lobe-icons/commit/9eda6c5))
+- **auto**: Auto build static icons ([a418240](https://github.com/bentwnghk/lobe-icons/commit/a418240))
+- **auto**: Auto build static icons ([e633956](https://github.com/bentwnghk/lobe-icons/commit/e633956))
+- **auto**: Auto build static icons ([88cf718](https://github.com/bentwnghk/lobe-icons/commit/88cf718))
+- **misc**: Add Dify, Poe, Cursor, MyShell, DeepAI and Tiangong ([6d50760](https://github.com/bentwnghk/lobe-icons/commit/6d50760))
+- **misc**: Add static packages ([f25f22c](https://github.com/bentwnghk/lobe-icons/commit/f25f22c))
+- **misc**: Update static workflow ([4fadf01](https://github.com/bentwnghk/lobe-icons/commit/4fadf01))
+- **misc**: Update workflow and dashboard ([be085bd](https://github.com/bentwnghk/lobe-icons/commit/be085bd))
+
+#### What's fixed
+
+- **misc**: Fix build ([2e10303](https://github.com/bentwnghk/lobe-icons/commit/2e10303))
+
+#### Styles
+
+- **misc**: Fix Cursor icon ([8d8aee7](https://github.com/bentwnghk/lobe-icons/commit/8d8aee7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.13.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-webp@1.12.0...@bentwnghk/icons-static-webp@1.13.0)
 
 <sup>Released on **2024-12-30**</sup>
