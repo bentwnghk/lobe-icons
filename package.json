@@ -1,21 +1,21 @@
 {
-  "name": "@lobehub/icons",
+  "name": "@bentwnghk/icons",
   "version": "1.59.1",
   "description": "Popular AI / LLM Model Brand SVG Logo and Icon Collection",
   "keywords": [
-    "lobehub",
+    "bentwnghk",
     "llm icons",
     "llm brand logo",
     "react components",
     "svg icons"
   ],
-  "homepage": "https://github.com/lobehub/lobe-icons",
+  "homepage": "https://github.com/bentwnghk/lobe-icons",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-icons/issues/new"
+    "url": "https://github.com/bentwnghk/lobe-icons/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-icons.git"
+    "url": "https://github.com/bentwnghk/lobe-icons.git"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
@@ -49,7 +49,7 @@
     "release:static": "multi-semantic-release",
     "setup": "dumi setup",
     "start": "npm run dev",
-    "sync:cnpm": "cnpm sync @lobehub/icons-static-svg @lobehub/icons-static-png @lobehub/icons-static-webp",
+    "sync:cnpm": "cnpm sync @bentwnghk/icons-static-svg @bentwnghk/icons-static-png @bentwnghk/icons-static-webp",
     "sync:md": "npm run build:toc && tsx scripts/readmeWorkflow/index.ts",
     "test": "vitest --passWithNoTests",
     "test:coverage": "vitest run --coverage  --passWithNoTests",
@@ -120,7 +120,7 @@
     "vitest": "~1.2.2"
   },
   "peerDependencies": {
-    "@lobehub/ui": ">=1",
+    "@bentwnghk/ui": ">=1",
     "antd": ">=5",
     "antd-style": ">=3",
     "lucide-react": ">=0.396.0",
