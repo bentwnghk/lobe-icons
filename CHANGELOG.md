@@ -2,6 +2,192 @@
 
 # Changelog
 
+## Version 1.0.0
+
+<sup>Released on **2025-01-04**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refacotr file tree, Update dumi.
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons.
+- **misc**: Add `CodeGeeX`, Add `novita.ai` `紫东太初` `360 智脑`, Add 01.AI, Add Adobe / Firefly / FishAudio / Ai21, Add AlibabaCloud, Vercel, V0, Notion, Coze, Add aws bedrock, Add BaiduCloud and SenseNova (resolve, Add Civitai, Add Cohere Aya (resolve, Add ComfyUI, Hailuo, Replit and TII, Add deepseek, Add demos, Add Dify, Poe, Cursor, MyShell, DeepAI and Tiangong, Add FalAI (resolve, Add FLux and PaLM, Add Gemina Colab Nvidia, Add GiteeAI, Add Google Gemini, Add Google Vertex AI, Add higress, Add Hunyuan, Add InternLM, Add Kimi and Amazon Nova (resolve, Add LangChain, Add LM Studio, Add LM Studio to ProviderIcon, Add LobeHub, Add Magic, Add midjourney, Add ModelIcon and Provider Icon, Add more ai brand, Add more ai brands, Add more llm brands, Add more llm icons, Add more providers, Add new Claude icon and Groq, Add new icons, Add OpenRouter and LLaVA, Add Recraft, Add Runway & Kling & Luma & Runway & Viggle & CogView & CogVideo, Add RWKV DBRX OpenChat, Add SiliconCloud icon, Add sitemap, Add static packages, Add Tongyi Wenxi ChatGLM, Add Upsate and Solar, Add vLLM & Stepfun, Add xAI (resolve, Add Yi and Grok, Auto build static icons, Doubao, root, Update static workflow, Update workflow and dashboard.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Disable mako, fix avatar type, Fix build, Fix build, Fix build workflow, Fix components, Fix dalle, Fix dashboard, fix deps, fix deps, Fix doubao, fix doubao model icon, Fix Enum, fix father build ignore, Fix giscus, fix Groq Combine, fix Groq miss combine, Fix homepage, Fix LobeHub icon, Fix ollama icon position, Fix scripts, Fix spark const, Fix spark const, Fix spark in const, Fix ssr, Fix typo, Fix Upstage typo, improve a11y, Lock dumi, Rm father doctor, Yi & Solar icon display in TogetherAI provider.
+
+#### 💄 Styles
+
+- **misc**: Add Cloudflare to ProviderIcon, Add Doubao Model, Add HuggingFace to ProviderIcon, add Hunyuan provider icon, add InternLM provider icon, add modelIcon support `InternVL` vision model from InternLM, add modelIcon support Ministral model from Mistral, Add o3, Add qwen qwq, Add roundToEven, Add shape to ModelIcon and ProviderIcon, Add tts adn whisper, Add WorkersAI to Cloudflare, fix `phi-2` model icon in CF `@cf/microsoft/phi-2`, fix AI21 modelTag display in Bedrock & add providerIcon, Fix Cursor icon, Fix model const, Fix some logo style, Fix svg id, SafariIconWidthFix, support Fireworks & Spark icon display, Support OpenAI o1-preview and o1-mini, support Spark Lite icon (New model ID: `lite`), support Spark Max-32k, update base flow, Update config, Update display style, update gemma icon, Update GitHub to ProviderIcon, Update Ideogram style, Update lint, Update lobehub provider, Update model const, Update ModelScope Mono Icon, Update o1 keywords, Update og, Update Qwen, Update TOC, Updatet doubao const, upload pixtral model icon.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refacotr file tree ([fe00131](https://github.com/bentwnghk/lobe-icons/commit/fe00131))
+- **misc**: Update dumi ([9bfe0a5](https://github.com/bentwnghk/lobe-icons/commit/9bfe0a5))
+
+#### What's improved
+
+- **auto**: Auto build static icons ([6b57d5c](https://github.com/bentwnghk/lobe-icons/commit/6b57d5c))
+- **auto**: Auto build static icons ([fed77cb](https://github.com/bentwnghk/lobe-icons/commit/fed77cb))
+- **auto**: Auto build static icons ([3646e7c](https://github.com/bentwnghk/lobe-icons/commit/3646e7c))
+- **auto**: Auto build static icons ([328e85b](https://github.com/bentwnghk/lobe-icons/commit/328e85b))
+- **auto**: Auto build static icons ([bf3f13a](https://github.com/bentwnghk/lobe-icons/commit/bf3f13a))
+- **auto**: Auto build static icons ([d196d93](https://github.com/bentwnghk/lobe-icons/commit/d196d93))
+- **auto**: Auto build static icons ([5a95f32](https://github.com/bentwnghk/lobe-icons/commit/5a95f32))
+- **auto**: Auto build static icons ([0b825c4](https://github.com/bentwnghk/lobe-icons/commit/0b825c4))
+- **auto**: Auto build static icons ([9eda6c5](https://github.com/bentwnghk/lobe-icons/commit/9eda6c5))
+- **auto**: Auto build static icons ([a418240](https://github.com/bentwnghk/lobe-icons/commit/a418240))
+- **auto**: Auto build static icons ([1e6b7cf](https://github.com/bentwnghk/lobe-icons/commit/1e6b7cf))
+- **auto**: Auto build static icons ([e633956](https://github.com/bentwnghk/lobe-icons/commit/e633956))
+- **auto**: Auto build static icons ([88cf718](https://github.com/bentwnghk/lobe-icons/commit/88cf718))
+- **misc**: Add `CodeGeeX`, closes [#30](https://github.com/bentwnghk/lobe-icons/issues/30) ([7c301df](https://github.com/bentwnghk/lobe-icons/commit/7c301df))
+- **misc**: Add `novita.ai` `紫东太初` `360 智脑` ([02e6848](https://github.com/bentwnghk/lobe-icons/commit/02e6848))
+- **misc**: Add 01.AI ([fe91b49](https://github.com/bentwnghk/lobe-icons/commit/fe91b49))
+- **misc**: Add Adobe / Firefly / FishAudio / Ai21, closes [#18](https://github.com/bentwnghk/lobe-icons/issues/18) ([bb94c7a](https://github.com/bentwnghk/lobe-icons/commit/bb94c7a))
+- **misc**: Add AlibabaCloud, Vercel, V0, Notion, Coze ([56f01ac](https://github.com/bentwnghk/lobe-icons/commit/56f01ac))
+- **misc**: Add aws bedrock ([43ab6c3](https://github.com/bentwnghk/lobe-icons/commit/43ab6c3))
+- **misc**: Add BaiduCloud and SenseNova (resolve, closes [#43](https://github.com/bentwnghk/lobe-icons/issues/43) ([f194d23](https://github.com/bentwnghk/lobe-icons/commit/f194d23))
+- **misc**: Add Civitai ([9527910](https://github.com/bentwnghk/lobe-icons/commit/9527910))
+- **misc**: Add Cohere Aya (resolve, closes [#32](https://github.com/bentwnghk/lobe-icons/issues/32) ([c35e8fb](https://github.com/bentwnghk/lobe-icons/commit/c35e8fb))
+- **misc**: Add ComfyUI, Hailuo, Replit and TII ([801c989](https://github.com/bentwnghk/lobe-icons/commit/801c989))
+- **misc**: Add deepseek ([b8f4bb4](https://github.com/bentwnghk/lobe-icons/commit/b8f4bb4))
+- **misc**: Add demos ([8020388](https://github.com/bentwnghk/lobe-icons/commit/8020388))
+- **misc**: Add Dify, Poe, Cursor, MyShell, DeepAI and Tiangong ([6d50760](https://github.com/bentwnghk/lobe-icons/commit/6d50760))
+- **misc**: Add FalAI (resolve, closes [#58](https://github.com/bentwnghk/lobe-icons/issues/58) ([25155c9](https://github.com/bentwnghk/lobe-icons/commit/25155c9))
+- **misc**: Add FLux and PaLM ([c0108cf](https://github.com/bentwnghk/lobe-icons/commit/c0108cf))
+- **misc**: Add Gemina Colab Nvidia ([8472d5c](https://github.com/bentwnghk/lobe-icons/commit/8472d5c))
+- **misc**: Add GiteeAI, closes [#53](https://github.com/bentwnghk/lobe-icons/issues/53) ([0cd6dc1](https://github.com/bentwnghk/lobe-icons/commit/0cd6dc1))
+- **misc**: Add Google Gemini ([f4a71e0](https://github.com/bentwnghk/lobe-icons/commit/f4a71e0))
+- **misc**: Add Google Vertex AI ([c01d77a](https://github.com/bentwnghk/lobe-icons/commit/c01d77a))
+- **misc**: Add higress ([ad390e5](https://github.com/bentwnghk/lobe-icons/commit/ad390e5))
+- **misc**: Add Hunyuan ([d2dc21a](https://github.com/bentwnghk/lobe-icons/commit/d2dc21a))
+- **misc**: Add InternLM ([2e1295b](https://github.com/bentwnghk/lobe-icons/commit/2e1295b))
+- **misc**: Add Kimi and Amazon Nova (resolve, closes [#54](https://github.com/bentwnghk/lobe-icons/issues/54) ([1f3ee8c](https://github.com/bentwnghk/lobe-icons/commit/1f3ee8c))
+- **misc**: Add LangChain ([7926983](https://github.com/bentwnghk/lobe-icons/commit/7926983))
+- **misc**: Add LM Studio ([431c63f](https://github.com/bentwnghk/lobe-icons/commit/431c63f))
+- **misc**: Add LM Studio to ProviderIcon ([e310622](https://github.com/bentwnghk/lobe-icons/commit/e310622))
+- **misc**: Add LobeHub ([4c011b2](https://github.com/bentwnghk/lobe-icons/commit/4c011b2))
+- **misc**: Add Magic ([2f4462e](https://github.com/bentwnghk/lobe-icons/commit/2f4462e))
+- **misc**: Add midjourney ([49f2030](https://github.com/bentwnghk/lobe-icons/commit/49f2030))
+- **misc**: Add ModelIcon and Provider Icon ([7e31862](https://github.com/bentwnghk/lobe-icons/commit/7e31862))
+- **misc**: Add more ai brand ([8e63d1b](https://github.com/bentwnghk/lobe-icons/commit/8e63d1b))
+- **misc**: Add more ai brands ([7c6c843](https://github.com/bentwnghk/lobe-icons/commit/7c6c843))
+- **misc**: Add more llm brands ([62ba9c5](https://github.com/bentwnghk/lobe-icons/commit/62ba9c5))
+- **misc**: Add more llm icons ([d1b27da](https://github.com/bentwnghk/lobe-icons/commit/d1b27da))
+- **misc**: Add more providers ([63b09b0](https://github.com/bentwnghk/lobe-icons/commit/63b09b0))
+- **misc**: Add new Claude icon and Groq ([97fb5ed](https://github.com/bentwnghk/lobe-icons/commit/97fb5ed))
+- **misc**: Add new icons ([977ed25](https://github.com/bentwnghk/lobe-icons/commit/977ed25))
+- **misc**: Add OpenRouter and LLaVA ([7997637](https://github.com/bentwnghk/lobe-icons/commit/7997637))
+- **misc**: Add Recraft ([980b3d8](https://github.com/bentwnghk/lobe-icons/commit/980b3d8))
+- **misc**: Add Runway & Kling & Luma & Runway & Viggle & CogView & CogVideo ([dce7dd1](https://github.com/bentwnghk/lobe-icons/commit/dce7dd1))
+- **misc**: Add RWKV DBRX OpenChat ([fa45b93](https://github.com/bentwnghk/lobe-icons/commit/fa45b93))
+- **misc**: Add SiliconCloud icon ([e39bdc2](https://github.com/bentwnghk/lobe-icons/commit/e39bdc2))
+- **misc**: Add sitemap ([18b8962](https://github.com/bentwnghk/lobe-icons/commit/18b8962))
+- **misc**: Add static packages ([f25f22c](https://github.com/bentwnghk/lobe-icons/commit/f25f22c))
+- **misc**: Add Tongyi Wenxi ChatGLM ([7e9b574](https://github.com/bentwnghk/lobe-icons/commit/7e9b574))
+- **misc**: Add Upsate and Solar ([265887d](https://github.com/bentwnghk/lobe-icons/commit/265887d))
+- **misc**: Add vLLM & Stepfun ([3fac0df](https://github.com/bentwnghk/lobe-icons/commit/3fac0df))
+- **misc**: Add xAI (resolve, closes [#48](https://github.com/bentwnghk/lobe-icons/issues/48) ([a1544e7](https://github.com/bentwnghk/lobe-icons/commit/a1544e7))
+- **misc**: Add Yi and Grok ([53eff47](https://github.com/bentwnghk/lobe-icons/commit/53eff47))
+- **misc**: Auto build static icons ([c923e7b](https://github.com/bentwnghk/lobe-icons/commit/c923e7b))
+- **misc**: Doubao ([a91ced7](https://github.com/bentwnghk/lobe-icons/commit/a91ced7))
+- **misc**: Root ([c8ae543](https://github.com/bentwnghk/lobe-icons/commit/c8ae543))
+- **misc**: Update static workflow ([4fadf01](https://github.com/bentwnghk/lobe-icons/commit/4fadf01))
+- **misc**: Update workflow and dashboard ([be085bd](https://github.com/bentwnghk/lobe-icons/commit/be085bd))
+
+#### What's fixed
+
+- **misc**: Disable mako ([8eb8ba1](https://github.com/bentwnghk/lobe-icons/commit/8eb8ba1))
+- **misc**: Fix avatar type ([0e3404b](https://github.com/bentwnghk/lobe-icons/commit/0e3404b))
+- **misc**: Fix build ([2e10303](https://github.com/bentwnghk/lobe-icons/commit/2e10303))
+- **misc**: Fix build ([ac172f8](https://github.com/bentwnghk/lobe-icons/commit/ac172f8))
+- **misc**: Fix build workflow ([643ca5b](https://github.com/bentwnghk/lobe-icons/commit/643ca5b))
+- **misc**: Fix components ([c21f99a](https://github.com/bentwnghk/lobe-icons/commit/c21f99a))
+- **misc**: Fix dalle ([7e5e2d5](https://github.com/bentwnghk/lobe-icons/commit/7e5e2d5))
+- **misc**: Fix dashboard ([1526c46](https://github.com/bentwnghk/lobe-icons/commit/1526c46))
+- **misc**: Fix deps ([385a104](https://github.com/bentwnghk/lobe-icons/commit/385a104))
+- **misc**: Fix deps ([361faa5](https://github.com/bentwnghk/lobe-icons/commit/361faa5))
+- **misc**: Fix doubao ([37e871d](https://github.com/bentwnghk/lobe-icons/commit/37e871d))
+- **misc**: Fix doubao model icon, closes [#34](https://github.com/bentwnghk/lobe-icons/issues/34) ([0eaaa33](https://github.com/bentwnghk/lobe-icons/commit/0eaaa33))
+- **misc**: Fix Enum ([82b5fee](https://github.com/bentwnghk/lobe-icons/commit/82b5fee))
+- **misc**: Fix father build ignore ([d18b69c](https://github.com/bentwnghk/lobe-icons/commit/d18b69c))
+- **misc**: Fix giscus ([b4ccf79](https://github.com/bentwnghk/lobe-icons/commit/b4ccf79))
+- **misc**: Fix Groq Combine, closes [#15](https://github.com/bentwnghk/lobe-icons/issues/15) [#14](https://github.com/bentwnghk/lobe-icons/issues/14) ([79be47e](https://github.com/bentwnghk/lobe-icons/commit/79be47e))
+- **misc**: Fix Groq miss combine, closes [#13](https://github.com/bentwnghk/lobe-icons/issues/13) ([dc1ca6a](https://github.com/bentwnghk/lobe-icons/commit/dc1ca6a))
+- **misc**: Fix homepage ([7021a40](https://github.com/bentwnghk/lobe-icons/commit/7021a40))
+- **misc**: Fix LobeHub icon ([6b5070d](https://github.com/bentwnghk/lobe-icons/commit/6b5070d))
+- **misc**: Fix ollama icon position ([9d614df](https://github.com/bentwnghk/lobe-icons/commit/9d614df))
+- **misc**: Fix scripts ([83dafe6](https://github.com/bentwnghk/lobe-icons/commit/83dafe6))
+- **misc**: Fix spark const ([c709f53](https://github.com/bentwnghk/lobe-icons/commit/c709f53))
+- **misc**: Fix spark const ([68299a5](https://github.com/bentwnghk/lobe-icons/commit/68299a5))
+- **misc**: Fix spark in const ([f696abe](https://github.com/bentwnghk/lobe-icons/commit/f696abe))
+- **misc**: Fix ssr ([bbc3730](https://github.com/bentwnghk/lobe-icons/commit/bbc3730))
+- **misc**: Fix typo ([bcaa53b](https://github.com/bentwnghk/lobe-icons/commit/bcaa53b))
+- **misc**: Fix Upstage typo ([d56f026](https://github.com/bentwnghk/lobe-icons/commit/d56f026))
+- **misc**: Improve a11y ([e533478](https://github.com/bentwnghk/lobe-icons/commit/e533478))
+- **misc**: Lock dumi ([6d2f9bf](https://github.com/bentwnghk/lobe-icons/commit/6d2f9bf))
+- **misc**: Rm father doctor ([2cf0f5f](https://github.com/bentwnghk/lobe-icons/commit/2cf0f5f))
+- **misc**: Yi & Solar icon display in TogetherAI provider, closes [#35](https://github.com/bentwnghk/lobe-icons/issues/35) ([2e9dafb](https://github.com/bentwnghk/lobe-icons/commit/2e9dafb))
+
+#### Styles
+
+- **misc**: Add Cloudflare to ProviderIcon ([3a0a132](https://github.com/bentwnghk/lobe-icons/commit/3a0a132))
+- **misc**: Add Doubao Model, closes [#37](https://github.com/bentwnghk/lobe-icons/issues/37) ([6f91171](https://github.com/bentwnghk/lobe-icons/commit/6f91171))
+- **misc**: Add HuggingFace to ProviderIcon ([f3f9e7e](https://github.com/bentwnghk/lobe-icons/commit/f3f9e7e))
+- **misc**: Add Hunyuan provider icon, closes [#42](https://github.com/bentwnghk/lobe-icons/issues/42) ([ef45525](https://github.com/bentwnghk/lobe-icons/commit/ef45525))
+- **misc**: Add InternLM provider icon, closes [#51](https://github.com/bentwnghk/lobe-icons/issues/51) ([147d091](https://github.com/bentwnghk/lobe-icons/commit/147d091))
+- **misc**: Add modelIcon support `InternVL` vision model from InternLM, closes [#45](https://github.com/bentwnghk/lobe-icons/issues/45) ([461d67a](https://github.com/bentwnghk/lobe-icons/commit/461d67a))
+- **misc**: Add modelIcon support Ministral model from Mistral, closes [#46](https://github.com/bentwnghk/lobe-icons/issues/46) ([e4eabca](https://github.com/bentwnghk/lobe-icons/commit/e4eabca))
+- **misc**: Add o3 ([91ae94f](https://github.com/bentwnghk/lobe-icons/commit/91ae94f))
+- **misc**: Add qwen qwq ([f60fa59](https://github.com/bentwnghk/lobe-icons/commit/f60fa59))
+- **misc**: Add roundToEven ([f7198fe](https://github.com/bentwnghk/lobe-icons/commit/f7198fe))
+- **misc**: Add shape to ModelIcon and ProviderIcon ([25417aa](https://github.com/bentwnghk/lobe-icons/commit/25417aa))
+- **misc**: Add tts adn whisper ([5fe41d8](https://github.com/bentwnghk/lobe-icons/commit/5fe41d8))
+- **misc**: Add WorkersAI to Cloudflare, closes [#50](https://github.com/bentwnghk/lobe-icons/issues/50) ([97ea647](https://github.com/bentwnghk/lobe-icons/commit/97ea647))
+- **misc**: Fix `phi-2` model icon in CF `@cf/microsoft/phi-2`, closes [#52](https://github.com/bentwnghk/lobe-icons/issues/52) ([46f9ba9](https://github.com/bentwnghk/lobe-icons/commit/46f9ba9))
+- **misc**: Fix AI21 modelTag display in Bedrock & add providerIcon, closes [#36](https://github.com/bentwnghk/lobe-icons/issues/36) ([561d3ac](https://github.com/bentwnghk/lobe-icons/commit/561d3ac))
+- **misc**: Fix Cursor icon ([8d8aee7](https://github.com/bentwnghk/lobe-icons/commit/8d8aee7))
+- **misc**: Fix model const ([ddba21f](https://github.com/bentwnghk/lobe-icons/commit/ddba21f))
+- **misc**: Fix some logo style ([34ce7b6](https://github.com/bentwnghk/lobe-icons/commit/34ce7b6))
+- **misc**: Fix svg id ([f7c69b9](https://github.com/bentwnghk/lobe-icons/commit/f7c69b9))
+- **misc**: SafariIconWidthFix ([172d50a](https://github.com/bentwnghk/lobe-icons/commit/172d50a))
+- **misc**: Support Fireworks & Spark icon display, closes [#33](https://github.com/bentwnghk/lobe-icons/issues/33) ([152d1b3](https://github.com/bentwnghk/lobe-icons/commit/152d1b3))
+- **misc**: Support OpenAI o1-preview and o1-mini ([a8c8163](https://github.com/bentwnghk/lobe-icons/commit/a8c8163))
+- **misc**: Support Spark Lite icon (New model ID: `lite`), closes [#47](https://github.com/bentwnghk/lobe-icons/issues/47) ([2b45002](https://github.com/bentwnghk/lobe-icons/commit/2b45002))
+- **misc**: Support Spark Max-32k, closes [#41](https://github.com/bentwnghk/lobe-icons/issues/41) ([e31c969](https://github.com/bentwnghk/lobe-icons/commit/e31c969))
+- **misc**: Update base flow ([5ec6904](https://github.com/bentwnghk/lobe-icons/commit/5ec6904))
+- **misc**: Update config ([2fdd538](https://github.com/bentwnghk/lobe-icons/commit/2fdd538))
+- **misc**: Update display style ([1da0dd9](https://github.com/bentwnghk/lobe-icons/commit/1da0dd9))
+- **misc**: Update gemma icon ([5c4fc37](https://github.com/bentwnghk/lobe-icons/commit/5c4fc37))
+- **misc**: Update GitHub to ProviderIcon ([d5090be](https://github.com/bentwnghk/lobe-icons/commit/d5090be))
+- **misc**: Update Ideogram style ([09ec320](https://github.com/bentwnghk/lobe-icons/commit/09ec320))
+- **misc**: Update lint ([b7a1955](https://github.com/bentwnghk/lobe-icons/commit/b7a1955))
+- **misc**: Update lobehub provider ([e880c31](https://github.com/bentwnghk/lobe-icons/commit/e880c31))
+- **misc**: Update model const ([bd4dbc0](https://github.com/bentwnghk/lobe-icons/commit/bd4dbc0))
+- **misc**: Update ModelScope Mono Icon ([31e395c](https://github.com/bentwnghk/lobe-icons/commit/31e395c))
+- **misc**: Update o1 keywords ([31f2da4](https://github.com/bentwnghk/lobe-icons/commit/31f2da4))
+- **misc**: Update og ([a4b9e07](https://github.com/bentwnghk/lobe-icons/commit/a4b9e07))
+- **misc**: Update Qwen ([a5f59ac](https://github.com/bentwnghk/lobe-icons/commit/a5f59ac))
+- **misc**: Update TOC ([0f8e494](https://github.com/bentwnghk/lobe-icons/commit/0f8e494))
+- **misc**: Updatet doubao const ([fa9601b](https://github.com/bentwnghk/lobe-icons/commit/fa9601b))
+- **misc**: Upload pixtral model icon, closes [#38](https://github.com/bentwnghk/lobe-icons/issues/38) ([adfa071](https://github.com/bentwnghk/lobe-icons/commit/adfa071))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.59.1](https://github.com/lobehub/lobe-icons/compare/v1.59.0...v1.59.1)
 
 <sup>Released on **2024-12-30**</sup>
