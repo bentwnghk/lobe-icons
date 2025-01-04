@@ -9,7 +9,7 @@ description: https://bytedance.com
 ## Icons
 
 ```tsx
-import { ByteDance } from '@lobehub/icons';
+import { ByteDance } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { ByteDance } from '@lobehub/icons';
+import { ByteDance } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -37,7 +37,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { ByteDance } from '@lobehub/icons';
+import { ByteDance } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -51,7 +51,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { ByteDance } from '@lobehub/icons';
+import { ByteDance } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -65,7 +65,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { ByteDance } from '@lobehub/icons';
+import { ByteDance } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

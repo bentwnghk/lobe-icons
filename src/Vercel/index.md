@@ -9,7 +9,7 @@ description: https://sdk.vercel.ai
 ## Icons
 
 ```tsx
-import { Vercel } from '@lobehub/icons';
+import { Vercel } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Vercel size={64} />;
@@ -18,7 +18,7 @@ export default () => <Vercel size={64} />;
 ## Text
 
 ```tsx
-import { Vercel } from '@lobehub/icons';
+import { Vercel } from '@bentwnghk/icons';
 
 export default () => <Vercel.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Vercel.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Vercel } from '@lobehub/icons';
+import { Vercel } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Vercel } from '@lobehub/icons';
+import { Vercel } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Vercel } from '@lobehub/icons';
+import { Vercel } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

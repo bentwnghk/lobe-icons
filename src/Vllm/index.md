@@ -9,7 +9,7 @@ description: https://github.com/vllm-project
 ## Icons
 
 ```tsx
-import { Vllm } from '@lobehub/icons';
+import { Vllm } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Vllm } from '@lobehub/icons';
+import { Vllm } from '@bentwnghk/icons';
 
 export default () => <Vllm.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Vllm.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Vllm } from '@lobehub/icons';
+import { Vllm } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Vllm } from '@lobehub/icons';
+import { Vllm } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Vllm } from '@lobehub/icons';
+import { Vllm } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

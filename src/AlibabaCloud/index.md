@@ -9,7 +9,7 @@ description: https://www.aliyun.com
 ## Icons
 
 ```tsx
-import { AlibabaCloud } from '@lobehub/icons';
+import { AlibabaCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { AlibabaCloud } from '@lobehub/icons';
+import { AlibabaCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -37,7 +37,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { AlibabaCloud } from '@lobehub/icons';
+import { AlibabaCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -51,7 +51,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { AlibabaCloud } from '@lobehub/icons';
+import { AlibabaCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -65,7 +65,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { AlibabaCloud } from '@lobehub/icons';
+import { AlibabaCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

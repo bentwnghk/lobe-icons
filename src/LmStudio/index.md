@@ -9,7 +9,7 @@ description: https://lmstudio.ai
 ## Icons
 
 ```tsx
-import { LmStudio } from '@lobehub/icons';
+import { LmStudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -22,7 +22,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { LmStudio } from '@lobehub/icons';
+import { LmStudio } from '@bentwnghk/icons';
 
 export default () => <LmStudio.Text size={48} />;
 ```
@@ -30,7 +30,7 @@ export default () => <LmStudio.Text size={48} />;
 ## Combine
 
 ```tsx
-import { LmStudio } from '@lobehub/icons';
+import { LmStudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -44,7 +44,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { LmStudio } from '@lobehub/icons';
+import { LmStudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { LmStudio } from '@lobehub/icons';
+import { LmStudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

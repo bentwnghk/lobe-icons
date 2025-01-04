@@ -9,7 +9,7 @@ description: https://ai-assets.gitee.com/
 ## Icons
 
 ```tsx
-import { GiteeAI } from '@lobehub/icons';
+import { GiteeAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <GiteeAI size={64} />;
@@ -18,7 +18,7 @@ export default () => <GiteeAI size={64} />;
 ## Text
 
 ```tsx
-import { GiteeAI } from '@lobehub/icons';
+import { GiteeAI } from '@bentwnghk/icons';
 
 export default () => <GiteeAI.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <GiteeAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { GiteeAI } from '@lobehub/icons';
+import { GiteeAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { GiteeAI } from '@lobehub/icons';
+import { GiteeAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { GiteeAI } from '@lobehub/icons';
+import { GiteeAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

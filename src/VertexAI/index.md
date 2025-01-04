@@ -9,7 +9,7 @@ description: https://cloud.google.com/generative-ai-studio
 ## Icons
 
 ```tsx
-import { VertexAI } from '@lobehub/icons';
+import { VertexAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { VertexAI } from '@lobehub/icons';
+import { VertexAI } from '@bentwnghk/icons';
 
 export default () => <VertexAI.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <VertexAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { VertexAI } from '@lobehub/icons';
+import { VertexAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { VertexAI } from '@lobehub/icons';
+import { VertexAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { VertexAI } from '@lobehub/icons';
+import { VertexAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://replicate.com
 ## Icons
 
 ```tsx
-import { Replicate } from '@lobehub/icons';
+import { Replicate } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -22,7 +22,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { Replicate } from '@lobehub/icons';
+import { Replicate } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -35,7 +35,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Replicate } from '@lobehub/icons';
+import { Replicate } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -49,7 +49,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Replicate } from '@lobehub/icons';
+import { Replicate } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

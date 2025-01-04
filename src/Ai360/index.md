@@ -9,7 +9,7 @@ description: https://ai.360.com/
 ## Icons
 
 ```tsx
-import { Ai360 } from '@lobehub/icons';
+import { Ai360 } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Ai360 } from '@lobehub/icons';
+import { Ai360 } from '@bentwnghk/icons';
 
 export default () => <Ai360.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Ai360.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Ai360 } from '@lobehub/icons';
+import { Ai360 } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Ai360 } from '@lobehub/icons';
+import { Ai360 } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Ai360 } from '@lobehub/icons';
+import { Ai360 } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

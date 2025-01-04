@@ -9,7 +9,7 @@ description: https://codegeex.cn/
 ## Icons
 
 ```tsx
-import { CodeGeeX } from '@lobehub/icons';
+import { CodeGeeX } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { CodeGeeX } from '@lobehub/icons';
+import { CodeGeeX } from '@bentwnghk/icons';
 
 export default () => <CodeGeeX.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <CodeGeeX.Text size={48} />;
 ## Combine
 
 ```tsx
-import { CodeGeeX } from '@lobehub/icons';
+import { CodeGeeX } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { CodeGeeX } from '@lobehub/icons';
+import { CodeGeeX } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { CodeGeeX } from '@lobehub/icons';
+import { CodeGeeX } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

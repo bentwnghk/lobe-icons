@@ -9,7 +9,7 @@ description: https://wow.groq.com
 ## Icons
 
 ```tsx
-import { Groq } from '@lobehub/icons';
+import { Groq } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Groq size={64} />;
@@ -18,7 +18,7 @@ export default () => <Groq size={64} />;
 ## Text
 
 ```tsx
-import { Groq } from '@lobehub/icons';
+import { Groq } from '@bentwnghk/icons';
 
 export default () => <Groq.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Groq.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Groq } from '@lobehub/icons';
+import { Groq } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -40,7 +40,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Groq } from '@lobehub/icons';
+import { Groq } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -54,7 +54,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Groq } from '@lobehub/icons';
+import { Groq } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://notion.com
 ## Icons
 
 ```tsx
-import { Notion } from '@lobehub/icons';
+import { Notion } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Notion size={64} />;
@@ -18,7 +18,7 @@ export default () => <Notion size={64} />;
 ## Text
 
 ```tsx
-import { Notion } from '@lobehub/icons';
+import { Notion } from '@bentwnghk/icons';
 
 export default () => <Notion.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Notion.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Notion } from '@lobehub/icons';
+import { Notion } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Notion } from '@lobehub/icons';
+import { Notion } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Notion } from '@lobehub/icons';
+import { Notion } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

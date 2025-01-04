@@ -1,4 +1,4 @@
-import { Icon } from '@lobehub/ui';
+import { Icon } from '@bentwnghk/ui';
 import { useTheme } from 'antd-style';
 import { Brain } from 'lucide-react';
 import { CSSProperties, forwardRef } from 'react';

@@ -9,7 +9,7 @@ description: https://recraft.ai
 ## Icons
 
 ```tsx
-import { Recraft } from '@lobehub/icons';
+import { Recraft } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Recraft size={64} />;
@@ -18,7 +18,7 @@ export default () => <Recraft size={64} />;
 ## Text
 
 ```tsx
-import { Recraft } from '@lobehub/icons';
+import { Recraft } from '@bentwnghk/icons';
 
 export default () => <Recraft.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Recraft.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Recraft } from '@lobehub/icons';
+import { Recraft } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Recraft } from '@lobehub/icons';
+import { Recraft } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Recraft } from '@lobehub/icons';
+import { Recraft } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

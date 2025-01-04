@@ -9,7 +9,7 @@ description: https://mistral.ai
 ## Icons
 
 ```tsx
-import { Mistral } from '@lobehub/icons';
+import { Mistral } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Mistral } from '@lobehub/icons';
+import { Mistral } from '@bentwnghk/icons';
 
 export default () => <Mistral.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Mistral.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Mistral } from '@lobehub/icons';
+import { Mistral } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Mistral } from '@lobehub/icons';
+import { Mistral } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Mistral } from '@lobehub/icons';
+import { Mistral } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

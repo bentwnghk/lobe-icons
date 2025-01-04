@@ -9,7 +9,7 @@ description: https://aws.amazon.com/cn/ai/generative-ai/nova
 ## Icons
 
 ```tsx
-import { Nova } from '@lobehub/icons';
+import { Nova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Nova } from '@lobehub/icons';
+import { Nova } from '@bentwnghk/icons';
 
 export default () => <Nova.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Nova.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Nova } from '@lobehub/icons';
+import { Nova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Nova } from '@lobehub/icons';
+import { Nova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Nova } from '@lobehub/icons';
+import { Nova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

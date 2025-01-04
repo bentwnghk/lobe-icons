@@ -9,7 +9,7 @@ description: https://deepmind.google/technologies/gemini
 ## Icons
 
 ```tsx
-import { Stability } from '@lobehub/icons';
+import { Stability } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Stability } from '@lobehub/icons';
+import { Stability } from '@bentwnghk/icons';
 
 export default () => <Stability.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Stability.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Stability } from '@lobehub/icons';
+import { Stability } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { Stability } from '@lobehub/icons';
+import { Stability } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Stability } from '@lobehub/icons';
+import { Stability } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -74,7 +74,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Stability } from '@lobehub/icons';
+import { Stability } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

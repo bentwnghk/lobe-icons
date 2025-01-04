@@ -9,7 +9,7 @@ description: https://grok.x.ai
 ## Icons
 
 ```tsx
-import { Grok } from '@lobehub/icons';
+import { Grok } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Grok size={64} />;
@@ -18,7 +18,7 @@ export default () => <Grok size={64} />;
 ## Text
 
 ```tsx
-import { Grok } from '@lobehub/icons';
+import { Grok } from '@bentwnghk/icons';
 
 export default () => <Grok.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Grok.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Grok } from '@lobehub/icons';
+import { Grok } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Grok } from '@lobehub/icons';
+import { Grok } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Grok } from '@lobehub/icons';
+import { Grok } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

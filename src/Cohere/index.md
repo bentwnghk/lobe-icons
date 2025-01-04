@@ -9,7 +9,7 @@ description: https://cohere.com
 ## Icons
 
 ```tsx
-import { Cohere } from '@lobehub/icons';
+import { Cohere } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Cohere } from '@lobehub/icons';
+import { Cohere } from '@bentwnghk/icons';
 
 export default () => <Cohere.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Cohere.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Cohere } from '@lobehub/icons';
+import { Cohere } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -46,7 +46,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Cohere } from '@lobehub/icons';
+import { Cohere } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Cohere } from '@lobehub/icons';
+import { Cohere } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

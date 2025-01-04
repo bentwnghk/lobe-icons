@@ -9,7 +9,7 @@ description: https://antgroup.com
 ## Icons
 
 ```tsx
-import { AntGroup } from '@lobehub/icons';
+import { AntGroup } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { AntGroup } from '@lobehub/icons';
+import { AntGroup } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -37,7 +37,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { AntGroup } from '@lobehub/icons';
+import { AntGroup } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -51,7 +51,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { AntGroup } from '@lobehub/icons';
+import { AntGroup } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -65,7 +65,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { AntGroup } from '@lobehub/icons';
+import { AntGroup } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

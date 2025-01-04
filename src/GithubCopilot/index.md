@@ -9,7 +9,7 @@ description: https://github.com/features/copilot
 ## Icons
 
 ```tsx
-import { GithubCopilot } from '@lobehub/icons';
+import { GithubCopilot } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <GithubCopilot size={64} />;
@@ -18,7 +18,7 @@ export default () => <GithubCopilot size={64} />;
 ## Text
 
 ```tsx
-import { GithubCopilot } from '@lobehub/icons';
+import { GithubCopilot } from '@bentwnghk/icons';
 
 export default () => <GithubCopilot.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <GithubCopilot.Text size={48} />;
 ## Combine
 
 ```tsx
-import { GithubCopilot } from '@lobehub/icons';
+import { GithubCopilot } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { GithubCopilot } from '@lobehub/icons';
+import { GithubCopilot } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { GithubCopilot } from '@lobehub/icons';
+import { GithubCopilot } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

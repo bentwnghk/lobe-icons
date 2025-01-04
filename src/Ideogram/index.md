@@ -9,7 +9,7 @@ description: https://ideogram.ai
 ## Icons
 
 ```tsx
-import { Ideogram } from '@lobehub/icons';
+import { Ideogram } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Ideogram size={64} />;
@@ -18,7 +18,7 @@ export default () => <Ideogram size={64} />;
 ## Text
 
 ```tsx
-import { Ideogram } from '@lobehub/icons';
+import { Ideogram } from '@bentwnghk/icons';
 
 export default () => <Ideogram.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Ideogram.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Ideogram } from '@lobehub/icons';
+import { Ideogram } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Ideogram } from '@lobehub/icons';
+import { Ideogram } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Ideogram } from '@lobehub/icons';
+import { Ideogram } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

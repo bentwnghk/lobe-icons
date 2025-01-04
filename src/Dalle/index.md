@@ -11,7 +11,7 @@ description: https://openai.com/dall-e-3
 **Not Official**: This icon has not been verified by the official source and comes from the online community.
 
 ```tsx
-import { Dalle } from '@lobehub/icons';
+import { Dalle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Dalle } from '@lobehub/icons';
+import { Dalle } from '@bentwnghk/icons';
 
 export default () => <Dalle.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <Dalle.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Dalle } from '@lobehub/icons';
+import { Dalle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Dalle } from '@lobehub/icons';
+import { Dalle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Dalle } from '@lobehub/icons';
+import { Dalle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

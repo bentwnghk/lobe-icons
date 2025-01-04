@@ -9,7 +9,7 @@ description: https://blackforestlabs.ai
 ## Icons
 
 ```tsx
-import { Flux } from '@lobehub/icons';
+import { Flux } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Flux size={64} />;
@@ -18,7 +18,7 @@ export default () => <Flux size={64} />;
 ## Text
 
 ```tsx
-import { Flux } from '@lobehub/icons';
+import { Flux } from '@bentwnghk/icons';
 
 export default () => <Flux.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Flux.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Flux } from '@lobehub/icons';
+import { Flux } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Flux } from '@lobehub/icons';
+import { Flux } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Flux } from '@lobehub/icons';
+import { Flux } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

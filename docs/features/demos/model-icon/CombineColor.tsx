@@ -1,5 +1,5 @@
-import { ModelIcon, modelMappings } from '@lobehub/icons';
-import { Grid } from '@lobehub/ui';
+import { ModelIcon, modelMappings } from '@bentwnghk/icons';
+import { Grid } from '@bentwnghk/ui';
 
 export default () => {
   return (

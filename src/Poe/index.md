@@ -11,7 +11,7 @@ description: https://poe.com
 ## Icons
 
 ```tsx
-import { Poe } from '@lobehub/icons';
+import { Poe } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Poe } from '@lobehub/icons';
+import { Poe } from '@bentwnghk/icons';
 
 export default () => <Poe.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <Poe.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Poe } from '@lobehub/icons';
+import { Poe } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Poe } from '@lobehub/icons';
+import { Poe } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Poe } from '@lobehub/icons';
+import { Poe } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

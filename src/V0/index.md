@@ -9,7 +9,7 @@ description: https://v0.dev
 ## Icons
 
 ```tsx
-import { V0 } from '@lobehub/icons';
+import { V0 } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <V0 size={64} />;
@@ -18,7 +18,7 @@ export default () => <V0 size={64} />;
 ## Avatars
 
 ```tsx
-import { V0 } from '@lobehub/icons';
+import { V0 } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -32,7 +32,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { V0 } from '@lobehub/icons';
+import { V0 } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

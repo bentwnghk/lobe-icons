@@ -12,8 +12,8 @@ apiHeader:
 ## Default
 
 ```tsx
-import { getLobeIconCDN } from '@lobehub/icons';
-import { Grid } from '@lobehub/ui';
+import { getLobeIconCDN } from '@bentwnghk/icons';
+import { Grid } from '@bentwnghk/ui';
 import { useThemeMode } from 'antd-style';
 
 export default () => {

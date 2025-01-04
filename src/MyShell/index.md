@@ -11,7 +11,7 @@ description: https://myshell.ai
 ## Icons
 
 ```tsx
-import { MyShell } from '@lobehub/icons';
+import { MyShell } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { MyShell } from '@lobehub/icons';
+import { MyShell } from '@bentwnghk/icons';
 
 export default () => <MyShell.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <MyShell.Text size={48} />;
 ## Combine
 
 ```tsx
-import { MyShell } from '@lobehub/icons';
+import { MyShell } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { MyShell } from '@lobehub/icons';
+import { MyShell } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { MyShell } from '@lobehub/icons';
+import { MyShell } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

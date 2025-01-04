@@ -9,7 +9,7 @@ description: https://ai.google/discover/palm2
 ## Icons
 
 ```tsx
-import { PaLM } from '@lobehub/icons';
+import { PaLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { PaLM } from '@lobehub/icons';
+import { PaLM } from '@bentwnghk/icons';
 
 export default () => <PaLM.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <PaLM.Text size={48} />;
 ## Combine
 
 ```tsx
-import { PaLM } from '@lobehub/icons';
+import { PaLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { PaLM } from '@lobehub/icons';
+import { PaLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { PaLM } from '@lobehub/icons';
+import { PaLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

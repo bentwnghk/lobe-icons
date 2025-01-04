@@ -9,7 +9,7 @@ description: https://ollama.ai
 ## Icons
 
 ```tsx
-import { Ollama } from '@lobehub/icons';
+import { Ollama } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Ollama size={64} />;
@@ -18,7 +18,7 @@ export default () => <Ollama size={64} />;
 ## Text
 
 ```tsx
-import { Ollama } from '@lobehub/icons';
+import { Ollama } from '@bentwnghk/icons';
 
 export default () => <Ollama.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Ollama.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Ollama } from '@lobehub/icons';
+import { Ollama } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Ollama } from '@lobehub/icons';
+import { Ollama } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Ollama } from '@lobehub/icons';
+import { Ollama } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

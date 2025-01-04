@@ -9,7 +9,7 @@ description: https://github.com/THUDM/ChatGLM-6B
 ## Icons
 
 ```tsx
-import { ChatGLM } from '@lobehub/icons';
+import { ChatGLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { ChatGLM } from '@lobehub/icons';
+import { ChatGLM } from '@bentwnghk/icons';
 
 export default () => <ChatGLM.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <ChatGLM.Text size={48} />;
 ## Combine
 
 ```tsx
-import { ChatGLM } from '@lobehub/icons';
+import { ChatGLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { ChatGLM } from '@lobehub/icons';
+import { ChatGLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { ChatGLM } from '@lobehub/icons';
+import { ChatGLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

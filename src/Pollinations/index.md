@@ -9,7 +9,7 @@ description: https://pollinations.ai
 ## Icons
 
 ```tsx
-import { Pollinations } from '@lobehub/icons';
+import { Pollinations } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Pollinations size={64} />;
@@ -18,7 +18,7 @@ export default () => <Pollinations size={64} />;
 ## Text
 
 ```tsx
-import { Pollinations } from '@lobehub/icons';
+import { Pollinations } from '@bentwnghk/icons';
 
 export default () => <Pollinations.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Pollinations.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Pollinations } from '@lobehub/icons';
+import { Pollinations } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Pollinations } from '@lobehub/icons';
+import { Pollinations } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Pollinations } from '@lobehub/icons';
+import { Pollinations } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

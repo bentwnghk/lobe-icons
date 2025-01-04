@@ -9,7 +9,7 @@ description: https://fal.ai
 ## Icons
 
 ```tsx
-import { Fal } from '@lobehub/icons';
+import { Fal } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Fal size={64} />;
@@ -18,7 +18,7 @@ export default () => <Fal size={64} />;
 ## Text
 
 ```tsx
-import { Fal } from '@lobehub/icons';
+import { Fal } from '@bentwnghk/icons';
 
 export default () => <Fal.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Fal.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Fal } from '@lobehub/icons';
+import { Fal } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Fal } from '@lobehub/icons';
+import { Fal } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Fal } from '@lobehub/icons';
+import { Fal } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

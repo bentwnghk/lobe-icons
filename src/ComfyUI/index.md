@@ -11,7 +11,7 @@ description: https://www.comfy.org
 ## Icons
 
 ```tsx
-import { ComfyUI } from '@lobehub/icons';
+import { ComfyUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { ComfyUI } from '@lobehub/icons';
+import { ComfyUI } from '@bentwnghk/icons';
 
 export default () => <ComfyUI.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <ComfyUI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { ComfyUI } from '@lobehub/icons';
+import { ComfyUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { ComfyUI } from '@lobehub/icons';
+import { ComfyUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { ComfyUI } from '@lobehub/icons';
+import { ComfyUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

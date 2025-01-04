@@ -6,9 +6,9 @@ export interface LobeIconCdnConfig {
 }
 
 const ALIYUN_ICON_CDN = (type: LobeIconCdnConfig['format']) =>
-  `https://registry.npmmirror.com/@lobehub/icons-static-${type}/latest/files`;
+  `https://registry.npmmirror.com/@bentwnghk/icons-static-${type}/latest/files`;
 const UNPKG_ICON_CDN = (type: LobeIconCdnConfig['format']) =>
-  `https://unpkg.com/@lobehub/icons-static-${type}@latest`;
+  `https://unpkg.com/@bentwnghk/icons-static-${type}@latest`;
 
 export const getLobeIconCDN = (id: string, config?: LobeIconCdnConfig): string => {
   const { format = 'png', isDarkMode = false, type = 'color', cdn = 'aliyun' } = config || {};

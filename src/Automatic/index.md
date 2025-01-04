@@ -13,7 +13,7 @@ description: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 <https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/2901>
 
 ```tsx
-import { Automatic } from '@lobehub/icons';
+import { Automatic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -27,7 +27,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Automatic } from '@lobehub/icons';
+import { Automatic } from '@bentwnghk/icons';
 
 export default () => <Automatic.Text size={48} />;
 ```
@@ -35,7 +35,7 @@ export default () => <Automatic.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Automatic } from '@lobehub/icons';
+import { Automatic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -49,7 +49,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Automatic } from '@lobehub/icons';
+import { Automatic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -63,7 +63,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Automatic } from '@lobehub/icons';
+import { Automatic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

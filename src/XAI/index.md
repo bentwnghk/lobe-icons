@@ -9,7 +9,7 @@ description: https://x.ai
 ## Icons
 
 ```tsx
-import { XAI } from '@lobehub/icons';
+import { XAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <XAI size={64} />;
@@ -18,7 +18,7 @@ export default () => <XAI size={64} />;
 ## Text
 
 ```tsx
-import { XAI } from '@lobehub/icons';
+import { XAI } from '@bentwnghk/icons';
 
 export default () => <XAI.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <XAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { XAI } from '@lobehub/icons';
+import { XAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { XAI } from '@lobehub/icons';
+import { XAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { XAI } from '@lobehub/icons';
+import { XAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

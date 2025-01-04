@@ -43,11 +43,11 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/[ICON SLUG].webp"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-webp@latest/dark/[ICON SLUG].webp"
   />
   <img
     height="64"
-    src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/[ICON SLUG].webp"
+    src="https://unpkg.com/@bentwnghk/icons-static-webp@latest/light/[ICON SLUG].webp"
   />
 </picture>
 
@@ -55,11 +55,11 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/[ICON SLUG].webp"
+    srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/[ICON SLUG].webp"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/[ICON SLUG].webp"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/[ICON SLUG].webp"
   />
 </picture>
 ```
@@ -67,8 +67,8 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 ### Example
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai.webp">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai.webp">
+  <img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai.webp">
 </picture>
 
 ```html
@@ -76,27 +76,27 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/openai.webp"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-webp@latest/dark/openai.webp"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/openai.webp" />
+  <img height="64" src="https://unpkg.com/@bentwnghk/icons-static-webp@latest/light/openai.webp" />
 </picture>
 
 <!--ALIYUN-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai.webp"
+    srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai.webp"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai.webp"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai.webp"
   />
 </picture>
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai-text.webp">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai-text.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai-text.webp">
+  <img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai-text.webp">
 </picture>
 
 ```html
@@ -104,11 +104,11 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/openai-text.webp"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-webp@latest/dark/openai-text.webp"
   />
   <img
     height="64"
-    src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/openai-text.webp"
+    src="https://unpkg.com/@bentwnghk/icons-static-webp@latest/light/openai-text.webp"
   />
 </picture>
 
@@ -117,12 +117,12 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai-text.webp
+      https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai-text.webp
     "
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai-text.webp"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai-text.webp"
   />
 </picture>
 ```
@@ -137,9 +137,9 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 
 | Package                                                                                | FileType | Version                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [@lobehub/icons-static-svg](https://www.npmjs.com/package/@lobehub/icons-static-svg)   | `SVG`    | [![](https://img.shields.io/npm/v/@lobehub/icons-static-svg?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-svg)   |
-| [@lobehub/icons-static-png](https://www.npmjs.com/package/@lobehub/icons-static-png)   | `PNG`    | [![](https://img.shields.io/npm/v/@lobehub/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-png)   |
-| [@lobehub/icons-static-webp](https://www.npmjs.com/package/@lobehub/icons-static-webp) | `WEBP`   | [![](https://img.shields.io/npm/v/@lobehub/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-webp) |
+| [@bentwnghk/icons-static-svg](https://www.npmjs.com/package/@bentwnghk/icons-static-svg)   | `SVG`    | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-svg?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-svg)   |
+| [@bentwnghk/icons-static-png](https://www.npmjs.com/package/@bentwnghk/icons-static-png)   | `PNG`    | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-png)   |
+| [@bentwnghk/icons-static-webp](https://www.npmjs.com/package/@bentwnghk/icons-static-webp) | `WEBP`   | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-webp) |
 
 <div align="right">
 
@@ -180,10 +180,10 @@ This project is [MIT](./LICENSE) licensed.
 [github-releasedate-shield]: https://img.shields.io/github/release-date/lobehub/lobe-icons?labelColor=black&style=flat-square
 [github-stars-link]: https://github.com/lobehub/lobe-icons/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-icons?color=ffcb47&labelColor=black&style=flat-square
-[npm-downloads-link]: https://www.npmjs.com/package/@lobehub/icons-static-webp
-[npm-downloads-shield]: https://img.shields.io/npm/dt/@lobehub/icons-static-webp?labelColor=black&style=flat-square
-[npm-release-link]: https://www.npmjs.com/package/@lobehub/icons-static-webp
-[npm-release-shield]: https://img.shields.io/npm/v/@lobehub/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[npm-downloads-link]: https://www.npmjs.com/package/@bentwnghk/icons-static-webp
+[npm-downloads-shield]: https://img.shields.io/npm/dt/@bentwnghk/icons-static-webp?labelColor=black&style=flat-square
+[npm-release-link]: https://www.npmjs.com/package/@bentwnghk/icons-static-webp
+[npm-release-shield]: https://img.shields.io/npm/v/@bentwnghk/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [profile-link]: https://github.com/lobehub
 [vercel-link]: https://icons.lobehub.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fui.lobehub.com

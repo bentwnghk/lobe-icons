@@ -9,7 +9,7 @@ description: https://aws.amazon.com
 ## Icons
 
 ```tsx
-import { Aws } from '@lobehub/icons';
+import { Aws } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Aws } from '@lobehub/icons';
+import { Aws } from '@bentwnghk/icons';
 
 export default () => <Aws.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Aws.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Aws } from '@lobehub/icons';
+import { Aws } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { Aws } from '@lobehub/icons';
+import { Aws } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Aws } from '@lobehub/icons';
+import { Aws } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -73,7 +73,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Aws } from '@lobehub/icons';
+import { Aws } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

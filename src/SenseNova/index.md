@@ -9,7 +9,7 @@ description: https://platform.sensenova.cn
 ## Icons
 
 ```tsx
-import { SenseNova } from '@lobehub/icons';
+import { SenseNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { SenseNova } from '@lobehub/icons';
+import { SenseNova } from '@bentwnghk/icons';
 
 export default () => <SenseNova.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <SenseNova.Text size={48} />;
 ## Combine
 
 ```tsx
-import { SenseNova } from '@lobehub/icons';
+import { SenseNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { SenseNova } from '@lobehub/icons';
+import { SenseNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { SenseNova } from '@lobehub/icons';
+import { SenseNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -73,7 +73,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { SenseNova } from '@lobehub/icons';
+import { SenseNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

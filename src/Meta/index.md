@@ -9,7 +9,7 @@ description: https://llama.meta.com
 ## Icons
 
 ```tsx
-import { Meta } from '@lobehub/icons';
+import { Meta } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Meta } from '@lobehub/icons';
+import { Meta } from '@bentwnghk/icons';
 
 export default () => <Meta.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Meta.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Meta } from '@lobehub/icons';
+import { Meta } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { Meta } from '@lobehub/icons';
+import { Meta } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Meta } from '@lobehub/icons';
+import { Meta } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -74,7 +74,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Meta } from '@lobehub/icons';
+import { Meta } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

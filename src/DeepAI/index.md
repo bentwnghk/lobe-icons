@@ -9,7 +9,7 @@ description: hhttps://deepai.org
 ## Icons
 
 ```tsx
-import { DeepAI } from '@lobehub/icons';
+import { DeepAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <DeepAI size={64} />;
@@ -18,7 +18,7 @@ export default () => <DeepAI size={64} />;
 ## Text
 
 ```tsx
-import { DeepAI } from '@lobehub/icons';
+import { DeepAI } from '@bentwnghk/icons';
 
 export default () => <DeepAI.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <DeepAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { DeepAI } from '@lobehub/icons';
+import { DeepAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { DeepAI } from '@lobehub/icons';
+import { DeepAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { DeepAI } from '@lobehub/icons';
+import { DeepAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

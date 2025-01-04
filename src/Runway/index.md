@@ -9,7 +9,7 @@ description: https://runwayml.com
 ## Icons
 
 ```tsx
-import { Runway } from '@lobehub/icons';
+import { Runway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Runway size={64} />;
@@ -18,7 +18,7 @@ export default () => <Runway size={64} />;
 ## Text
 
 ```tsx
-import { Runway } from '@lobehub/icons';
+import { Runway } from '@bentwnghk/icons';
 
 export default () => <Runway.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Runway.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Runway } from '@lobehub/icons';
+import { Runway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Runway } from '@lobehub/icons';
+import { Runway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Runway } from '@lobehub/icons';
+import { Runway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

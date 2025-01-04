@@ -11,7 +11,7 @@ description: https://www.tiangong.cn
 ## Icons
 
 ```tsx
-import { Tiangong } from '@lobehub/icons';
+import { Tiangong } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Tiangong } from '@lobehub/icons';
+import { Tiangong } from '@bentwnghk/icons';
 
 export default () => <Tiangong.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <Tiangong.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Tiangong } from '@lobehub/icons';
+import { Tiangong } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Tiangong } from '@lobehub/icons';
+import { Tiangong } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -62,7 +62,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Tiangong } from '@lobehub/icons';
+import { Tiangong } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

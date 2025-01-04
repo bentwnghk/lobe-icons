@@ -9,7 +9,7 @@ description: https://higress.cn/
 ## Icons
 
 ```tsx
-import { Higress } from '@lobehub/icons';
+import { Higress } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Higress } from '@lobehub/icons';
+import { Higress } from '@bentwnghk/icons';
 
 export default () => <Higress.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Higress.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Higress } from '@lobehub/icons';
+import { Higress } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Higress } from '@lobehub/icons';
+import { Higress } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Higress } from '@lobehub/icons';
+import { Higress } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

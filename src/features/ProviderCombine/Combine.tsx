@@ -1,4 +1,4 @@
-import { DivProps } from '@lobehub/ui';
+import { DivProps } from '@bentwnghk/ui';
 import { Divider } from 'antd';
 import { ReactNode, memo } from 'react';
 import { Flexbox } from 'react-layout-kit';

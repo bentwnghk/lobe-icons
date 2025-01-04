@@ -9,7 +9,7 @@ description: https://cursor.com
 ## Icons
 
 ```tsx
-import { Cursor } from '@lobehub/icons';
+import { Cursor } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Cursor size={64} />;
@@ -18,7 +18,7 @@ export default () => <Cursor size={64} />;
 ## Text
 
 ```tsx
-import { Cursor } from '@lobehub/icons';
+import { Cursor } from '@bentwnghk/icons';
 
 export default () => <Cursor.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Cursor.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Cursor } from '@lobehub/icons';
+import { Cursor } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Cursor } from '@lobehub/icons';
+import { Cursor } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Cursor } from '@lobehub/icons';
+import { Cursor } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

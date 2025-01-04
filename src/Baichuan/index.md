@@ -9,7 +9,7 @@ description: https://baichuan-ai.com
 ## Icons
 
 ```tsx
-import { Baichuan } from '@lobehub/icons';
+import { Baichuan } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Baichuan } from '@lobehub/icons';
+import { Baichuan } from '@bentwnghk/icons';
 
 export default () => <Baichuan.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Baichuan.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Baichuan } from '@lobehub/icons';
+import { Baichuan } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -46,7 +46,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Baichuan } from '@lobehub/icons';
+import { Baichuan } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Baichuan } from '@lobehub/icons';
+import { Baichuan } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

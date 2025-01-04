@@ -1,4 +1,4 @@
-import { Features, FeaturesProps, Snippet } from '@lobehub/ui';
+import { Features, FeaturesProps, Snippet } from '@bentwnghk/ui';
 import { Expand, GitPullRequest, Trees } from 'lucide-react';
 import { Center, Flexbox } from 'react-layout-kit';
 
@@ -30,7 +30,7 @@ export default () => {
     <Flexbox gap={48}>
       <Center>
         <h2 style={{ fontSize: 20 }}>To install Lobe Icons, run the following command:</h2>
-        <Snippet language={'bash'}>{'$ bun add @lobehub/icons'}</Snippet>
+        <Snippet language={'bash'}>{'$ bun add @bentwnghk/icons'}</Snippet>
       </Center>
       <Dashboard />
       <Features items={items} />

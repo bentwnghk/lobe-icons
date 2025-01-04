@@ -9,7 +9,7 @@ description: https://claude.ai
 ## Icons
 
 ```tsx
-import { Claude } from '@lobehub/icons';
+import { Claude } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Claude } from '@lobehub/icons';
+import { Claude } from '@bentwnghk/icons';
 
 export default () => <Claude.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Claude.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Claude } from '@lobehub/icons';
+import { Claude } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Claude } from '@lobehub/icons';
+import { Claude } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Claude } from '@lobehub/icons';
+import { Claude } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://github.com/THUDM/CogView3
 ## Icons
 
 ```tsx
-import { CogView } from '@lobehub/icons';
+import { CogView } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { CogView } from '@lobehub/icons';
+import { CogView } from '@bentwnghk/icons';
 
 export default () => <CogView.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <CogView.Text size={48} />;
 ## Combine
 
 ```tsx
-import { CogView } from '@lobehub/icons';
+import { CogView } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { CogView } from '@lobehub/icons';
+import { CogView } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { CogView } from '@lobehub/icons';
+import { CogView } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

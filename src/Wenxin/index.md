@@ -9,7 +9,7 @@ description: https://yiyan.baidu.com
 ## Icons
 
 ```tsx
-import { Wenxin } from '@lobehub/icons';
+import { Wenxin } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Wenxin } from '@lobehub/icons';
+import { Wenxin } from '@bentwnghk/icons';
 
 export default () => <Wenxin.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Wenxin.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Wenxin } from '@lobehub/icons';
+import { Wenxin } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -46,7 +46,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Wenxin } from '@lobehub/icons';
+import { Wenxin } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Wenxin } from '@lobehub/icons';
+import { Wenxin } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

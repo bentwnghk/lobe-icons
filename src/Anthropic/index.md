@@ -9,7 +9,7 @@ description: https://anthropic.com
 ## Icons
 
 ```tsx
-import { Anthropic } from '@lobehub/icons';
+import { Anthropic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Anthropic size={64} />;
@@ -18,7 +18,7 @@ export default () => <Anthropic size={64} />;
 ## Text
 
 ```tsx
-import { Anthropic } from '@lobehub/icons';
+import { Anthropic } from '@bentwnghk/icons';
 
 export default () => <Anthropic.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Anthropic.Text size={48} />;
 ## Avatars
 
 ```tsx
-import { Anthropic } from '@lobehub/icons';
+import { Anthropic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -40,7 +40,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Anthropic } from '@lobehub/icons';
+import { Anthropic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

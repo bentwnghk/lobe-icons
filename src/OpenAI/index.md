@@ -9,7 +9,7 @@ description: https://openai.com
 ## Icons
 
 ```tsx
-import { OpenAI } from '@lobehub/icons';
+import { OpenAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <OpenAI size={64} />;
@@ -18,7 +18,7 @@ export default () => <OpenAI size={64} />;
 ## Text
 
 ```tsx
-import { OpenAI } from '@lobehub/icons';
+import { OpenAI } from '@bentwnghk/icons';
 
 export default () => <OpenAI.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <OpenAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { OpenAI } from '@lobehub/icons';
+import { OpenAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -40,7 +40,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { OpenAI } from '@lobehub/icons';
+import { OpenAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -57,7 +57,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { OpenAI } from '@lobehub/icons';
+import { OpenAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

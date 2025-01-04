@@ -1,6 +1,6 @@
 ---
 title: Icon Editor
-description: Icon Editor for @lobehub/icons
+description: Icon Editor for @bentwnghk/icons
 nav:
   title: Editor
   order: 888

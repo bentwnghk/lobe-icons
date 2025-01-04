@@ -9,7 +9,7 @@ description: https://www.databricks.com
 ## Icons
 
 ```tsx
-import { Dbrx } from '@lobehub/icons';
+import { Dbrx } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Dbrx } from '@lobehub/icons';
+import { Dbrx } from '@bentwnghk/icons';
 
 export default () => <Dbrx.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Dbrx.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Dbrx } from '@lobehub/icons';
+import { Dbrx } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { Dbrx } from '@lobehub/icons';
+import { Dbrx } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Dbrx } from '@lobehub/icons';
+import { Dbrx } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -73,7 +73,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Dbrx } from '@lobehub/icons';
+import { Dbrx } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

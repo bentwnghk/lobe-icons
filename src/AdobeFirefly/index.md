@@ -9,7 +9,7 @@ description: https://firefly.adobe.com
 ## Icons
 
 ```tsx
-import { AdobeFirefly } from '@lobehub/icons';
+import { AdobeFirefly } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { AdobeFirefly } from '@lobehub/icons';
+import { AdobeFirefly } from '@bentwnghk/icons';
 
 export default () => <AdobeFirefly.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <AdobeFirefly.Text size={48} />;
 ## Combine
 
 ```tsx
-import { AdobeFirefly } from '@lobehub/icons';
+import { AdobeFirefly } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <AdobeFirefly.Combine size={64} />;
@@ -40,7 +40,7 @@ export default () => <AdobeFirefly.Combine size={64} />;
 ## Avatars
 
 ```tsx
-import { AdobeFirefly } from '@lobehub/icons';
+import { AdobeFirefly } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -54,7 +54,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { AdobeFirefly } from '@lobehub/icons';
+import { AdobeFirefly } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -139,44 +139,44 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 
 ### `A` CDN with SVG
 
-We provide a CDN service (`@lobehub/icons-static-svg`) which allows you to use SVG.
+We provide a CDN service (`@bentwnghk/icons-static-svg`) which allows you to use SVG.
 
 ```html
 <!--UNPKG-->
-<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/[ICON SLUG].svg" />
+<img height="64" src="https://unpkg.com/@bentwnghk/icons-static-svg@latest/icons/[ICON SLUG].svg" />
 
 <!--ALIYUN-->
 <img
   height="64"
-  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/[ICON SLUG].svg"
+  src="https://registry.npmmirror.com/@bentwnghk/icons-static-svg/latest/files/icons/[ICON SLUG].svg"
 />
 ```
 
 #### Example
 
-<img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai.svg">
+<img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-svg/latest/files/icons/openai.svg">
 
 ```html
 <!--UNPKG-->
-<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" />
+<img height="64" src="https://unpkg.com/@bentwnghk/icons-static-svg@latest/icons/openai.svg" />
 
 <!--ALIYUN-->
 <img
   height="64"
-  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai.svg"
+  src="https://registry.npmmirror.com/@bentwnghk/icons-static-svg/latest/files/icons/openai.svg"
 />
 ```
 
-<img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai-text.svg">
+<img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-svg/latest/files/icons/openai-text.svg">
 
 ```html
 <!--UNPKG-->
-<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai-text.svg" />
+<img height="64" src="https://unpkg.com/@bentwnghk/icons-static-svg@latest/icons/openai-text.svg" />
 
 <!--ALIYUN-->
 <img
   height="64"
-  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai-text.svg"
+  src="https://registry.npmmirror.com/@bentwnghk/icons-static-svg/latest/files/icons/openai-text.svg"
 />
 ```
 
@@ -184,27 +184,27 @@ We provide a CDN service (`@lobehub/icons-static-svg`) which allows you to use S
 
 ### `B` CDN with PNG
 
-We provide a CDN service (`@lobehub/icons-static-png`) which allows you to use PNG.
+We provide a CDN service (`@bentwnghk/icons-static-png`) which allows you to use PNG.
 
 ```html
 <!--UNPKG-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/[ICON SLUG].png"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-png@latest/dark/[ICON SLUG].png"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/[ICON SLUG].png" />
+  <img height="64" src="https://unpkg.com/@bentwnghk/icons-static-png@latest/light/[ICON SLUG].png" />
 </picture>
 
 <!--ALIYUN-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/[ICON SLUG].png"
+    srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/dark/[ICON SLUG].png"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/[ICON SLUG].png"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/light/[ICON SLUG].png"
   />
 </picture>
 ```
@@ -212,8 +212,8 @@ We provide a CDN service (`@lobehub/icons-static-png`) which allows you to use P
 #### Example
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/dark/openai.png">
+  <img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/light/openai.png">
 </picture>
 
 ```html
@@ -221,27 +221,27 @@ We provide a CDN service (`@lobehub/icons-static-png`) which allows you to use P
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-png@latest/dark/openai.png"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" />
+  <img height="64" src="https://unpkg.com/@bentwnghk/icons-static-png@latest/light/openai.png" />
 </picture>
 
 <!--ALIYUN-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
+    srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/dark/openai.png"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/light/openai.png"
   />
 </picture>
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-text.png">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai-text.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/dark/openai-text.png">
+  <img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/light/openai-text.png">
 </picture>
 
 ```html
@@ -249,9 +249,9 @@ We provide a CDN service (`@lobehub/icons-static-png`) which allows you to use P
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai-text.png"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-png@latest/dark/openai-text.png"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai-text.png" />
+  <img height="64" src="https://unpkg.com/@bentwnghk/icons-static-png@latest/light/openai-text.png" />
 </picture>
 
 <!--ALIYUN-->
@@ -259,12 +259,12 @@ We provide a CDN service (`@lobehub/icons-static-png`) which allows you to use P
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-text.png
+      https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/dark/openai-text.png
     "
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai-text.png"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-png/latest/files/light/openai-text.png"
   />
 </picture>
 ```
@@ -273,18 +273,18 @@ We provide a CDN service (`@lobehub/icons-static-png`) which allows you to use P
 
 ### `C` CDN with WEBP
 
-We provide a CDN service (`@lobehub/icons-static-webp`) which allows you to use WEBP.
+We provide a CDN service (`@bentwnghk/icons-static-webp`) which allows you to use WEBP.
 
 ```html
 <!--UNPKG-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/[ICON SLUG].webp"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-webp@latest/dark/[ICON SLUG].webp"
   />
   <img
     height="64"
-    src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/[ICON SLUG].webp"
+    src="https://unpkg.com/@bentwnghk/icons-static-webp@latest/light/[ICON SLUG].webp"
   />
 </picture>
 
@@ -292,11 +292,11 @@ We provide a CDN service (`@lobehub/icons-static-webp`) which allows you to use 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/[ICON SLUG].webp"
+    srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/[ICON SLUG].webp"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/[ICON SLUG].webp"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/[ICON SLUG].webp"
   />
 </picture>
 ```
@@ -304,8 +304,8 @@ We provide a CDN service (`@lobehub/icons-static-webp`) which allows you to use 
 #### Example
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai.webp">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai.webp">
+  <img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai.webp">
 </picture>
 
 ```html
@@ -313,27 +313,27 @@ We provide a CDN service (`@lobehub/icons-static-webp`) which allows you to use 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/openai.webp"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-webp@latest/dark/openai.webp"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/openai.webp" />
+  <img height="64" src="https://unpkg.com/@bentwnghk/icons-static-webp@latest/light/openai.webp" />
 </picture>
 
 <!--ALIYUN-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai.webp"
+    srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai.webp"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai.webp"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai.webp"
   />
 </picture>
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai-text.webp">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai-text.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai-text.webp">
+  <img height="64" src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai-text.webp">
 </picture>
 
 ```html
@@ -341,11 +341,11 @@ We provide a CDN service (`@lobehub/icons-static-webp`) which allows you to use 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/openai-text.webp"
+    srcset="https://unpkg.com/@bentwnghk/icons-static-webp@latest/dark/openai-text.webp"
   />
   <img
     height="64"
-    src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/openai-text.webp"
+    src="https://unpkg.com/@bentwnghk/icons-static-webp@latest/light/openai-text.webp"
   />
 </picture>
 
@@ -354,12 +354,12 @@ We provide a CDN service (`@lobehub/icons-static-webp`) which allows you to use 
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai-text.webp
+      https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/dark/openai-text.webp
     "
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai-text.webp"
+    src="https://registry.npmmirror.com/@bentwnghk/icons-static-webp/latest/files/light/openai-text.webp"
   />
 </picture>
 ```
@@ -370,9 +370,9 @@ We provide a CDN service (`@lobehub/icons-static-webp`) which allows you to use 
 
 | Package                                                                                | FileType | Version                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [@lobehub/icons-static-svg](https://www.npmjs.com/package/@lobehub/icons-static-svg)   | `SVG`    | [![](https://img.shields.io/npm/v/@lobehub/icons-static-svg?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-svg)   |
-| [@lobehub/icons-static-png](https://www.npmjs.com/package/@lobehub/icons-static-png)   | `PNG`    | [![](https://img.shields.io/npm/v/@lobehub/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-png)   |
-| [@lobehub/icons-static-webp](https://www.npmjs.com/package/@lobehub/icons-static-webp) | `WEBP`   | [![](https://img.shields.io/npm/v/@lobehub/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-webp) |
+| [@bentwnghk/icons-static-svg](https://www.npmjs.com/package/@bentwnghk/icons-static-svg)   | `SVG`    | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-svg?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-svg)   |
+| [@bentwnghk/icons-static-png](https://www.npmjs.com/package/@bentwnghk/icons-static-png)   | `PNG`    | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-png)   |
+| [@bentwnghk/icons-static-webp](https://www.npmjs.com/package/@bentwnghk/icons-static-webp) | `WEBP`   | [![](https://img.shields.io/npm/v/@bentwnghk/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@bentwnghk/icons-static-webp) |
 
 <div align="right">
 
@@ -390,20 +390,20 @@ To install Lobe UI, run the following command:
 [![][bun-shield]][bun-link]
 
 ```bash
-$ bun add @lobehub/icons
+$ bun add @bentwnghk/icons
 ```
 
 ### Compile with NextJS
 
 > \[!NOTE]\
-> By work correct with nextjs ssr, add `transpilePackages: ['@lobehub/icons']` to `next.config.js`. For example:
+> By work correct with nextjs ssr, add `transpilePackages: ['@bentwnghk/icons']` to `next.config.js`. For example:
 
 ```js
 // next.config.js
 const nextConfig = {
   // ...other config
 
-  transpilePackages: ['@lobehub/icons'],
+  transpilePackages: ['@bentwnghk/icons'],
 };
 ```
 
@@ -532,10 +532,10 @@ This project is [MIT](./LICENSE) licensed.
 [github-releasedate-shield]: https://img.shields.io/github/release-date/lobehub/lobe-icons?labelColor=black&style=flat-square
 [github-stars-link]: https://github.com/lobehub/lobe-icons/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-icons?color=ffcb47&labelColor=black&style=flat-square
-[npm-downloads-link]: https://www.npmjs.com/package/@lobehub/icons
-[npm-downloads-shield]: https://img.shields.io/npm/dt/@lobehub/icons?labelColor=black&style=flat-square
-[npm-release-link]: https://www.npmjs.com/package/@lobehub/icons
-[npm-release-shield]: https://img.shields.io/npm/v/@lobehub/icons?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[npm-downloads-link]: https://www.npmjs.com/package/@bentwnghk/icons
+[npm-downloads-shield]: https://img.shields.io/npm/dt/@bentwnghk/icons?labelColor=black&style=flat-square
+[npm-release-link]: https://www.npmjs.com/package/@bentwnghk/icons
+[npm-release-shield]: https://img.shields.io/npm/v/@bentwnghk/icons?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [pr-welcome-link]: https://github.com/lobehub/lobe-chat/pulls
 [pr-welcome-shield]: https://img.shields.io/badge/🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
 [profile-link]: https://github.com/lobehub

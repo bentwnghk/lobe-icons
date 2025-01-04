@@ -1,4 +1,4 @@
-import { IconCombine, OpenAI } from '@lobehub/icons';
+import { IconCombine, OpenAI } from '@bentwnghk/icons';
 
 export default () => {
   return (

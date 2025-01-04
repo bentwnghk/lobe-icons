@@ -9,7 +9,7 @@ description: https://api.minimax.chat
 ## Icons
 
 ```tsx
-import { Minimax } from '@lobehub/icons';
+import { Minimax } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Minimax } from '@lobehub/icons';
+import { Minimax } from '@bentwnghk/icons';
 
 export default () => <Minimax.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Minimax.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Minimax } from '@lobehub/icons';
+import { Minimax } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Minimax } from '@lobehub/icons';
+import { Minimax } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -60,7 +60,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Minimax } from '@lobehub/icons';
+import { Minimax } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

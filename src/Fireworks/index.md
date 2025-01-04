@@ -9,7 +9,7 @@ description: https://fireworks.ai
 ## Icons
 
 ```tsx
-import { Fireworks } from '@lobehub/icons';
+import { Fireworks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Fireworks size={64} />;
@@ -18,7 +18,7 @@ export default () => <Fireworks size={64} />;
 ## Text
 
 ```tsx
-import { Fireworks } from '@lobehub/icons';
+import { Fireworks } from '@bentwnghk/icons';
 
 export default () => <Fireworks.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Fireworks.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Fireworks } from '@lobehub/icons';
+import { Fireworks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Fireworks } from '@lobehub/icons';
+import { Fireworks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -54,7 +54,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Fireworks } from '@lobehub/icons';
+import { Fireworks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

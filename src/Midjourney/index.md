@@ -9,7 +9,7 @@ description: https://midjourney.com
 ## Icons
 
 ```tsx
-import { Midjourney } from '@lobehub/icons';
+import { Midjourney } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Midjourney size={64} />;
@@ -18,7 +18,7 @@ export default () => <Midjourney size={64} />;
 ## Text
 
 ```tsx
-import { Midjourney } from '@lobehub/icons';
+import { Midjourney } from '@bentwnghk/icons';
 
 export default () => <Midjourney.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Midjourney.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Midjourney } from '@lobehub/icons';
+import { Midjourney } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Midjourney } from '@lobehub/icons';
+import { Midjourney } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Midjourney } from '@lobehub/icons';
+import { Midjourney } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

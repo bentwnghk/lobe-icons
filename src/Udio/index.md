@@ -9,7 +9,7 @@ description: https://www.udio.com
 ## Icons
 
 ```tsx
-import { Udio } from '@lobehub/icons';
+import { Udio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Udio } from '@lobehub/icons';
+import { Udio } from '@bentwnghk/icons';
 
 export default () => <Udio.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Udio.Text size={48} />;
 ## Avatars
 
 ```tsx
-import { Udio } from '@lobehub/icons';
+import { Udio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Udio } from '@lobehub/icons';
+import { Udio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

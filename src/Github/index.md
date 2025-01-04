@@ -9,7 +9,7 @@ description: https://github.com
 ## Icons
 
 ```tsx
-import { Github } from '@lobehub/icons';
+import { Github } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Github size={64} />;
@@ -18,7 +18,7 @@ export default () => <Github size={64} />;
 ## Text
 
 ```tsx
-import { Github } from '@lobehub/icons';
+import { Github } from '@bentwnghk/icons';
 
 export default () => <Github.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Github.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Github } from '@lobehub/icons';
+import { Github } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Github } from '@lobehub/icons';
+import { Github } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Github } from '@lobehub/icons';
+import { Github } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

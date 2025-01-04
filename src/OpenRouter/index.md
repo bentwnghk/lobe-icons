@@ -9,7 +9,7 @@ description: https://openrouter.ai
 ## Icons
 
 ```tsx
-import { OpenRouter } from '@lobehub/icons';
+import { OpenRouter } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <OpenRouter size={64} />;
@@ -18,7 +18,7 @@ export default () => <OpenRouter size={64} />;
 ## Text
 
 ```tsx
-import { OpenRouter } from '@lobehub/icons';
+import { OpenRouter } from '@bentwnghk/icons';
 
 export default () => <OpenRouter.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <OpenRouter.Text size={48} />;
 ## Combine
 
 ```tsx
-import { OpenRouter } from '@lobehub/icons';
+import { OpenRouter } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { OpenRouter } from '@lobehub/icons';
+import { OpenRouter } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { OpenRouter } from '@lobehub/icons';
+import { OpenRouter } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

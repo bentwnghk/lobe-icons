@@ -9,7 +9,7 @@ description: https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/
 ## Icons
 
 ```tsx
-import { Nvidia } from '@lobehub/icons';
+import { Nvidia } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Nvidia } from '@lobehub/icons';
+import { Nvidia } from '@bentwnghk/icons';
 
 export default () => <Nvidia.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Nvidia.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Nvidia } from '@lobehub/icons';
+import { Nvidia } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Nvidia } from '@lobehub/icons';
+import { Nvidia } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Nvidia } from '@lobehub/icons';
+import { Nvidia } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

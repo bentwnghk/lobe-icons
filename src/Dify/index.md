@@ -11,7 +11,7 @@ description: https://dify.ai
 ## Icons
 
 ```tsx
-import { Dify } from '@lobehub/icons';
+import { Dify } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Dify } from '@lobehub/icons';
+import { Dify } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { Dify } from '@lobehub/icons';
+import { Dify } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Dify } from '@lobehub/icons';
+import { Dify } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -67,7 +67,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Dify } from '@lobehub/icons';
+import { Dify } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

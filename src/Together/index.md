@@ -9,7 +9,7 @@ description: https://www.together.ai
 ## Icons
 
 ```tsx
-import { Together } from '@lobehub/icons';
+import { Together } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Together } from '@lobehub/icons';
+import { Together } from '@bentwnghk/icons';
 
 export default () => <Together.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Together.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Together } from '@lobehub/icons';
+import { Together } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { Together } from '@lobehub/icons';
+import { Together } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Together } from '@lobehub/icons';
+import { Together } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -73,7 +73,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Together } from '@lobehub/icons';
+import { Together } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -1,5 +1,5 @@
-import { ModelProvider, ProviderIcon } from '@lobehub/icons';
-import { Grid } from '@lobehub/ui';
+import { ModelProvider, ProviderIcon } from '@bentwnghk/icons';
+import { Grid } from '@bentwnghk/ui';
 
 export default () => {
   return (

@@ -1,4 +1,4 @@
-import { ModelTag, modelMappings } from '@lobehub/icons';
+import { ModelTag, modelMappings } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => {

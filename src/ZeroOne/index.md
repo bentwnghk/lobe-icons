@@ -9,7 +9,7 @@ description: https://www.lingyiwanwu.com/
 ## Icons
 
 ```tsx
-import { ZeroOne } from '@lobehub/icons';
+import { ZeroOne } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -22,7 +22,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { ZeroOne } from '@lobehub/icons';
+import { ZeroOne } from '@bentwnghk/icons';
 
 export default () => <ZeroOne.Text size={48} />;
 ```
@@ -30,7 +30,7 @@ export default () => <ZeroOne.Text size={48} />;
 ## Combine
 
 ```tsx
-import { ZeroOne } from '@lobehub/icons';
+import { ZeroOne } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -44,7 +44,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { ZeroOne } from '@lobehub/icons';
+import { ZeroOne } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -58,7 +58,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { ZeroOne } from '@lobehub/icons';
+import { ZeroOne } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

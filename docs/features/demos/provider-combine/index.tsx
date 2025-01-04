@@ -1,4 +1,4 @@
-import { ModelProvider, ProviderCombine } from '@lobehub/icons';
+import { ModelProvider, ProviderCombine } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => {

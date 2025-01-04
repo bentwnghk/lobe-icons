@@ -9,7 +9,7 @@ description: https://viggle.ai
 ## Icons
 
 ```tsx
-import { Viggle } from '@lobehub/icons';
+import { Viggle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Viggle size={64} />;
@@ -18,7 +18,7 @@ export default () => <Viggle size={64} />;
 ## Text
 
 ```tsx
-import { Viggle } from '@lobehub/icons';
+import { Viggle } from '@bentwnghk/icons';
 
 export default () => <Viggle.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Viggle.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Viggle } from '@lobehub/icons';
+import { Viggle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Viggle } from '@lobehub/icons';
+import { Viggle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Viggle } from '@lobehub/icons';
+import { Viggle } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -1,4 +1,4 @@
-import { Highlighter, Tag } from '@lobehub/ui';
+import { Highlighter, Tag } from '@bentwnghk/ui';
 import { createStyles } from 'antd-style';
 import { forwardRef } from 'react';
 import { Flexbox } from 'react-layout-kit';

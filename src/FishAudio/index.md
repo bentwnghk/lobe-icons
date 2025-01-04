@@ -9,7 +9,7 @@ description: https://github.com/fishaudio
 ## Icons
 
 ```tsx
-import { FishAudio } from '@lobehub/icons';
+import { FishAudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <FishAudio size={64} />;
@@ -18,7 +18,7 @@ export default () => <FishAudio size={64} />;
 ## Text
 
 ```tsx
-import { FishAudio } from '@lobehub/icons';
+import { FishAudio } from '@bentwnghk/icons';
 
 export default () => <FishAudio.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <FishAudio.Text size={48} />;
 ## Combine
 
 ```tsx
-import { FishAudio } from '@lobehub/icons';
+import { FishAudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { FishAudio } from '@lobehub/icons';
+import { FishAudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { FishAudio } from '@lobehub/icons';
+import { FishAudio } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://ai.google.dev/gemma
 ## Icons
 
 ```tsx
-import { Gemma } from '@lobehub/icons';
+import { Gemma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Simple
 
 ```tsx
-import { Gemma } from '@lobehub/icons';
+import { Gemma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Gemma.Simple size={64} />;
@@ -32,7 +32,7 @@ export default () => <Gemma.Simple size={64} />;
 ## Text
 
 ```tsx
-import { Gemma } from '@lobehub/icons';
+import { Gemma } from '@bentwnghk/icons';
 
 export default () => <Gemma.Text size={48} />;
 ```
@@ -40,7 +40,7 @@ export default () => <Gemma.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Gemma } from '@lobehub/icons';
+import { Gemma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -54,7 +54,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Gemma } from '@lobehub/icons';
+import { Gemma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -69,7 +69,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Gemma } from '@lobehub/icons';
+import { Gemma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

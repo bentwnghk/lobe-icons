@@ -11,7 +11,7 @@ description: https://lumalabs.ai
 ## Icons
 
 ```tsx
-import { Luma } from '@lobehub/icons';
+import { Luma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Luma } from '@lobehub/icons';
+import { Luma } from '@bentwnghk/icons';
 
 export default () => <Luma.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <Luma.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Luma } from '@lobehub/icons';
+import { Luma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Luma } from '@lobehub/icons';
+import { Luma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Luma } from '@lobehub/icons';
+import { Luma } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -1,6 +1,6 @@
 'use client';
 
-import { CopyButton, Tooltip } from '@lobehub/ui';
+import { CopyButton, Tooltip } from '@bentwnghk/ui';
 import { createStyles } from 'antd-style';
 import { memo } from 'react';
 import { Flexbox } from 'react-layout-kit';

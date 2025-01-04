@@ -9,7 +9,7 @@ description: https://coze.com
 ## Icons
 
 ```tsx
-import { Coze } from '@lobehub/icons';
+import { Coze } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Coze size={64} />;
@@ -18,7 +18,7 @@ export default () => <Coze size={64} />;
 ## Text
 
 ```tsx
-import { Coze } from '@lobehub/icons';
+import { Coze } from '@bentwnghk/icons';
 
 export default () => <Coze.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Coze.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Coze } from '@lobehub/icons';
+import { Coze } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Coze } from '@lobehub/icons';
+import { Coze } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Coze } from '@lobehub/icons';
+import { Coze } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';
