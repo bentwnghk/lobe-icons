@@ -9,8 +9,8 @@
     "paths": {
       "@@/*": [".dumi/tmp/*"],
       "@/*": ["src/*"],
-      "@lobehub/icons": ["src"],
-      "@lobehub/icons/*": ["src/*"]
+      "@bentwnghk/icons": ["src"],
+      "@bentwnghk/icons/*": ["src/*"]
     },
     "resolveJsonModule": true,
     "skipLibCheck": true,
