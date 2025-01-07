@@ -2,6 +2,39 @@
 
 # Changelog
 
+## [Version 1.7.0](https://github.com/bentwnghk/lobe-icons/compare/v1.6.0...v1.7.0)
+
+<sup>Released on **2025-01-07**</sup>
+
+#### ✨ Features
+
+- **misc**: Update antd.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix deps.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Update antd ([084f41e](https://github.com/bentwnghk/lobe-icons/commit/084f41e))
+
+#### What's fixed
+
+- **misc**: Fix deps ([cdaa1f2](https://github.com/bentwnghk/lobe-icons/commit/cdaa1f2))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.6.0](https://github.com/bentwnghk/lobe-icons/compare/v1.5.0...v1.6.0)
 
 <sup>Released on **2025-01-06**</sup>
