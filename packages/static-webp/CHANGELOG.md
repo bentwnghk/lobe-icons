@@ -2,6 +2,31 @@
 
 # Changelog
 
+## [Version 1.4.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-webp@1.3.0...@bentwnghk/icons-static-webp@1.4.0)
+
+<sup>Released on **2025-01-25**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([88f6d4d](https://github.com/bentwnghk/lobe-icons/commit/88f6d4d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.14.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.13.0...@lobehub/icons-static-webp@1.14.0)
 
 <sup>Released on **2025-01-24**</sup>
