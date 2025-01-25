@@ -2,6 +2,33 @@
 
 # Changelog
 
+## [Version 1.9.0](https://github.com/bentwnghk/lobe-icons/compare/v1.8.1...v1.9.0)
+
+<sup>Released on **2025-01-25**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+- **misc**: Add LiveKit (resolve.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([88f6d4d](https://github.com/bentwnghk/lobe-icons/commit/88f6d4d))
+- **misc**: Add LiveKit (resolve, closes [#61](https://github.com/bentwnghk/lobe-icons/issues/61) ([9201a68](https://github.com/bentwnghk/lobe-icons/commit/9201a68))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.8.1](https://github.com/bentwnghk/lobe-icons/compare/v1.8.0...v1.8.1)
 
 <sup>Released on **2025-01-22**</sup>
