@@ -52,7 +52,7 @@ import { Flexbox } from 'react-layout-kit';
 
 export default () => (
   <Flexbox gap={16} horizontal>
-    <Bing.Avatar size={64} background={Bing.colorGradient} />
+    <Bing.Avatar size={64} background={Bing.colorPrimary} />
     <Bing.Avatar size={64} />
     <Bing.Avatar size={64} shape={'square'} />
   </Flexbox>
