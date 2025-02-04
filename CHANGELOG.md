@@ -2,6 +2,43 @@
 
 # Changelog
 
+## [Version 1.11.0](https://github.com/bentwnghk/lobe-icons/compare/v1.10.0...v1.11.0)
+
+<sup>Released on **2025-02-04**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons.
+- **misc**: Add Haiper, Hedra, Lightricks, PixVerse, Sync, Tripo, Vidu, Add Pika, Xuanyan, Glif and Clipdrop.
+
+#### 💄 Styles
+
+- **misc**: Add support for `360zhinao2-o1` & `MiniMax-Text-01`.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([8c63fa2](https://github.com/bentwnghk/lobe-icons/commit/8c63fa2))
+- **auto**: Auto build static icons ([e245aba](https://github.com/bentwnghk/lobe-icons/commit/e245aba))
+- **misc**: Add Haiper, Hedra, Lightricks, PixVerse, Sync, Tripo, Vidu ([247cb15](https://github.com/bentwnghk/lobe-icons/commit/247cb15))
+- **misc**: Add Pika, Xuanyan, Glif and Clipdrop ([4583059](https://github.com/bentwnghk/lobe-icons/commit/4583059))
+
+#### Styles
+
+- **misc**: Add support for `360zhinao2-o1` & `MiniMax-Text-01`, closes [#67](https://github.com/bentwnghk/lobe-icons/issues/67) ([83a87be](https://github.com/bentwnghk/lobe-icons/commit/83a87be))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.10.0](https://github.com/bentwnghk/lobe-icons/compare/v1.9.0...v1.10.0)
 
 <sup>Released on **2025-01-28**</sup>
