@@ -2,6 +2,33 @@
 
 # Changelog
 
+## [Version 1.13.0](https://github.com/bentwnghk/lobe-icons/compare/v1.12.0...v1.13.0)
+
+<sup>Released on **2025-02-11**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+- **misc**: Add tencent cloud as provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([e6ded3c](https://github.com/bentwnghk/lobe-icons/commit/e6ded3c))
+- **misc**: Add tencent cloud as provider, closes [#68](https://github.com/bentwnghk/lobe-icons/issues/68) ([419510f](https://github.com/bentwnghk/lobe-icons/commit/419510f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.12.0](https://github.com/bentwnghk/lobe-icons/compare/v1.11.0...v1.12.0)
 
 <sup>Released on **2025-02-05**</sup>
