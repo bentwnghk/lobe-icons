@@ -2,7 +2,57 @@
 
 # Changelog
 
-## [Version 1.8.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-webp@1.7.0...@bentwnghk/icons-static-webp@1.8.0)
+## [Version 1.21.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.20.0...@lobehub/icons-static-webp@1.21.0)
+
+<sup>Released on **2025-02-15**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([af332ca](https://github.com/lobehub/lobe-icons/commit/af332ca))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.20.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.19.0...@lobehub/icons-static-webp@1.20.0)
+
+<sup>Released on **2025-02-14**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([bcf38b2](https://github.com/lobehub/lobe-icons/commit/bcf38b2))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.19.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.18.0...@lobehub/icons-static-webp@1.19.0)
 
 <sup>Released on **2025-02-11**</sup>
 
@@ -17,32 +67,7 @@
 
 #### What's improved
 
-- **auto**: Auto build static icons ([e6ded3c](https://github.com/bentwnghk/lobe-icons/commit/e6ded3c))
-
-</details>
-
-<div align="right">
-
-[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
-
-</div>
-
-## [Version 1.7.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-webp@1.6.0...@bentwnghk/icons-static-webp@1.7.0)
-
-<sup>Released on **2025-02-05**</sup>
-
-#### ✨ Features
-
-- **auto**: Auto build static icons.
-
-<br/>
-
-<details>
-<summary><kbd>Improvements and Fixes</kbd></summary>
-
-#### What's improved
-
-- **auto**: Auto build static icons ([211d8e9](https://github.com/bentwnghk/lobe-icons/commit/211d8e9))
+- **auto**: Auto build static icons ([e6ded3c](https://github.com/lobehub/lobe-icons/commit/e6ded3c))
 
 </details>
 

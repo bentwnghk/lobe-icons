@@ -12,7 +12,12 @@ description: https://fireworks.ai
 import { Fireworks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
-export default () => <Fireworks size={64} />;
+export default () => (
+  <Flexbox gap={16} horizontal>
+    <Fireworks size={64} />
+    <Fireworks.Color size={64} />
+  </Flexbox>
+);
 ```
 
 ## Text
@@ -32,6 +37,7 @@ import { Flexbox } from 'react-layout-kit';
 export default () => (
   <Flexbox gap={16} align={'flex-start'}>
     <Fireworks.Combine size={64} />
+    <Fireworks.Combine type={'color'} size={64} />
   </Flexbox>
 );
 ```
@@ -44,7 +50,6 @@ import { Flexbox } from 'react-layout-kit';
 
 export default () => (
   <Flexbox gap={16} horizontal>
-    <Fireworks.Avatar size={64} background={Fireworks.colorPrimary} />
     <Fireworks.Avatar size={64} />
     <Fireworks.Avatar size={64} shape={'square'} />
   </Flexbox>
@@ -62,7 +67,6 @@ import ColorPreview from '../components/ColorPreview';
 export default () => (
   <Flexbox gap={16} horizontal>
     <ColorPreview color={Fireworks.colorPrimary} />
-    <ColorPreview color={Fireworks.colorGradient} />
   </Flexbox>
 );
 ```

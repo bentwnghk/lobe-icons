@@ -7,6 +7,7 @@ import AiMass from '@/AiMass';
 import Anthropic from '@/Anthropic';
 import Aws from '@/Aws';
 import Azure from '@/Azure';
+import AzureAI from '@/AzureAI';
 import Baichuan from '@/Baichuan';
 import BaiduCloud from '@/BaiduCloud';
 import Bedrock from '@/Bedrock';
@@ -24,6 +25,7 @@ import Higress from '@/Higress';
 import HuggingFace from '@/HuggingFace';
 import Hunyuan from '@/Hunyuan';
 import InternLM from '@/InternLM';
+import Jina from '@/Jina';
 import LmStudio from '@/LmStudio';
 import LobeHub from '@/LobeHub';
 import Minimax from '@/Minimax';
@@ -31,9 +33,11 @@ import Mistral from '@/Mistral';
 import ModelScope from '@/ModelScope';
 import Moonshot from '@/Moonshot';
 import Novita from '@/Novita';
+import Nvidia from '@/Nvidia';
 import Ollama from '@/Ollama';
 import OpenAI from '@/OpenAI';
 import OpenRouter from '@/OpenRouter';
+import PPIO from '@/PPIO';
 import Perplexity from '@/Perplexity';
 import Qwen from '@/Qwen';
 import SenseNova from '@/SenseNova';
@@ -44,6 +48,8 @@ import TencentCloud from '@/TencentCloud';
 import Together from '@/Together';
 import Upstage from '@/Upstage';
 import VertexAI from '@/VertexAI';
+import Vllm from '@/Vllm';
+import Volcengine from '@/Volcengine';
 import Wenxin from '@/Wenxin';
 import WorkersAI from '@/WorkersAI';
 import XAI from '@/XAI';
@@ -158,6 +164,7 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: Github, combineMultiple: 0.95, keywords: [ModelProvider.Github] },
   { Icon: Doubao, keywords: [ModelProvider.Doubao] },
   { Icon: Hunyuan, keywords: [ModelProvider.Hunyuan] },
+  { Icon: Nvidia, keywords: [ModelProvider.Nvidia] },
   { Icon: TencentCloud, keywords: [ModelProvider.TencentCloud] },
   {
     Combine: memo(({ size = 24, type = 'color', ...props }) => (
@@ -190,7 +197,12 @@ export const providerMappings: ProviderMapping[] = [
   },
   { Icon: InternLM, combineMultiple: 0.95, keywords: [ModelProvider.InternLM] },
   { Icon: Higress, keywords: [ModelProvider.Higress] },
+  { Icon: Vllm, combineMultiple: 0.85, keywords: [ModelProvider.VLLM] },
   { Icon: GiteeAI, combineMultiple: 0.95, keywords: [ModelProvider.GiteeAI] },
-  { Icon: ModelScope, combineMultiple: 0.95, keywords: [ModelProvider.ModelScope] },
+  { Icon: ModelScope, combineMultiple: 1.2, keywords: [ModelProvider.ModelScope] },
   { Icon: VertexAI, keywords: [ModelProvider.VertexAI] },
+  { Icon: PPIO, combineMultiple: 0.85, keywords: [ModelProvider.PPIO] },
+  { Icon: Jina, keywords: [ModelProvider.Jina] },
+  { Icon: AzureAI, keywords: [ModelProvider.AzureAI] },
+  { Icon: Volcengine, keywords: [ModelProvider.Volcengine] },
 ];
