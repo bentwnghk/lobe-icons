@@ -2,6 +2,46 @@
 
 # Changelog
 
+## [Version 1.14.0](https://github.com/bentwnghk/lobe-icons/compare/v1.13.0...v1.14.0)
+
+<sup>Released on **2025-02-15**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons.
+- **misc**: Add jina logo, add new provider icon PPIO, Add Volcengine.
+
+#### 💄 Styles
+
+- **misc**: Add nvidia as provider, add vllm provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([af332ca](https://github.com/bentwnghk/lobe-icons/commit/af332ca))
+- **auto**: Auto build static icons ([bcf38b2](https://github.com/bentwnghk/lobe-icons/commit/bcf38b2))
+- **auto**: Auto build static icons ([49ed0ba](https://github.com/bentwnghk/lobe-icons/commit/49ed0ba))
+- **misc**: Add jina logo, closes [#74](https://github.com/bentwnghk/lobe-icons/issues/74) ([02b4fba](https://github.com/bentwnghk/lobe-icons/commit/02b4fba))
+- **misc**: Add new provider icon PPIO, closes [#72](https://github.com/bentwnghk/lobe-icons/issues/72) ([775d232](https://github.com/bentwnghk/lobe-icons/commit/775d232))
+- **misc**: Add Volcengine ([7ea5f45](https://github.com/bentwnghk/lobe-icons/commit/7ea5f45))
+
+#### Styles
+
+- **misc**: Add nvidia as provider, closes [#73](https://github.com/bentwnghk/lobe-icons/issues/73) ([06979a1](https://github.com/bentwnghk/lobe-icons/commit/06979a1))
+- **misc**: Add vllm provider, closes [#75](https://github.com/bentwnghk/lobe-icons/issues/75) ([bb34abb](https://github.com/bentwnghk/lobe-icons/commit/bb34abb))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.13.0](https://github.com/bentwnghk/lobe-icons/compare/v1.12.0...v1.13.0)
 
 <sup>Released on **2025-02-11**</sup>
