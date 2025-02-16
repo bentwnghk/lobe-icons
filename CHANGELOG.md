@@ -2,6 +2,41 @@
 
 # Changelog
 
+## [Version 1.15.0](https://github.com/bentwnghk/lobe-icons/compare/v1.14.0...v1.15.0)
+
+<sup>Released on **2025-02-16**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons.
+
+#### 💄 Styles
+
+- **misc**: Add jina deep search icons, Update some icon style.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([f409a27](https://github.com/bentwnghk/lobe-icons/commit/f409a27))
+- **auto**: Auto build static icons ([1b18299](https://github.com/bentwnghk/lobe-icons/commit/1b18299))
+
+#### Styles
+
+- **misc**: Add jina deep search icons, closes [#76](https://github.com/bentwnghk/lobe-icons/issues/76) ([265a76d](https://github.com/bentwnghk/lobe-icons/commit/265a76d))
+- **misc**: Update some icon style ([769b3a6](https://github.com/bentwnghk/lobe-icons/commit/769b3a6))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.14.0](https://github.com/bentwnghk/lobe-icons/compare/v1.13.0...v1.14.0)
 
 <sup>Released on **2025-02-15**</sup>
