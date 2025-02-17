@@ -23,5 +23,4 @@ Icons.Combine = Combine;
 Icons.Avatar = Avatar;
 Icons.colorPrimary = COLOR_PRIMARY;
 Icons.title = TITLE;
-
 export default Icons;

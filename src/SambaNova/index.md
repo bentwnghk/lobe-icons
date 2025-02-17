@@ -1,21 +1,21 @@
 ---
 nav: Components
-group: Model
-title: Mistral
-atomId: Mistral
-description: https://mistral.ai
+group: Provider
+title: SambaNova
+atomId: SambaNova
+description: https://sambanova.ai
 ---
 
 ## Icons
 
 ```tsx
-import { Mistral } from '@bentwnghk/icons';
+import { SambaNova } from '@lobehub/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
   <Flexbox gap={16} horizontal>
-    <Mistral size={64} />
-    <Mistral.Color size={64} />
+    <SambaNova size={64} />
+    <SambaNova.Color size={64} />
   </Flexbox>
 );
 ```
@@ -23,21 +23,21 @@ export default () => (
 ## Text
 
 ```tsx
-import { Mistral } from '@bentwnghk/icons';
+import { SambaNova } from '@lobehub/icons';
 
-export default () => <Mistral.Text size={48} />;
+export default () => <SambaNova.Text size={48} />;
 ```
 
 ## Combine
 
 ```tsx
-import { Mistral } from '@bentwnghk/icons';
+import { SambaNova } from '@lobehub/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
   <Flexbox gap={16} align={'flex-start'}>
-    <Mistral.Combine size={64} />
-    <Mistral.Combine size={64} type={'color'} />
+    <SambaNova.Combine size={64} />
+    <SambaNova.Combine size={64} type={'color'} />
   </Flexbox>
 );
 ```
@@ -45,13 +45,13 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Mistral } from '@bentwnghk/icons';
+import { SambaNova } from '@lobehub/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
   <Flexbox gap={16} horizontal>
-    <Mistral.Avatar size={64} />
-    <Mistral.Avatar size={64} shape={'square'} />
+    <SambaNova.Avatar size={64} />
+    <SambaNova.Avatar size={64} shape={'square'} />
   </Flexbox>
 );
 ```
@@ -59,14 +59,14 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Mistral } from '@bentwnghk/icons';
+import { SambaNova } from '@lobehub/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';
 
 export default () => (
   <Flexbox gap={16} horizontal>
-    <ColorPreview color={Mistral.colorPrimary} />
+    <ColorPreview color={SambaNova.colorPrimary} />
   </Flexbox>
 );
 ```
