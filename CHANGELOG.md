@@ -2,6 +2,39 @@
 
 # Changelog
 
+## [Version 1.17.0](https://github.com/bentwnghk/lobe-icons/compare/v1.16.0...v1.17.0)
+
+<sup>Released on **2025-02-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+#### 💄 Styles
+
+- **misc**: Add `kimi-latest` icon support.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([447a798](https://github.com/bentwnghk/lobe-icons/commit/447a798))
+
+#### Styles
+
+- **misc**: Add `kimi-latest` icon support, closes [#77](https://github.com/bentwnghk/lobe-icons/issues/77) ([e5a088a](https://github.com/bentwnghk/lobe-icons/commit/e5a088a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.16.0](https://github.com/bentwnghk/lobe-icons/compare/v1.15.0...v1.16.0)
 
 <sup>Released on **2025-02-17**</sup>
