@@ -2,6 +2,47 @@
 
 # Changelog
 
+## [Version 1.18.0](https://github.com/bentwnghk/lobe-icons/compare/v1.17.0...v1.18.0)
+
+<sup>Released on **2025-03-08**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons.
+- **misc**: Add BAAI (resolve, Add IFlyTekCloud (resolve, Add StateCloud.
+
+#### 💄 Styles
+
+- **misc**: Update new grok logo (fix.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([610d824](https://github.com/bentwnghk/lobe-icons/commit/610d824))
+- **auto**: Auto build static icons ([58ad35b](https://github.com/bentwnghk/lobe-icons/commit/58ad35b))
+- **auto**: Auto build static icons ([f3aabe9](https://github.com/bentwnghk/lobe-icons/commit/f3aabe9))
+- **auto**: Auto build static icons ([d5a35c9](https://github.com/bentwnghk/lobe-icons/commit/d5a35c9))
+- **auto**: Auto build static icons ([54126d0](https://github.com/bentwnghk/lobe-icons/commit/54126d0))
+- **misc**: Add BAAI (resolve, closes [#80](https://github.com/bentwnghk/lobe-icons/issues/80) ([509d749](https://github.com/bentwnghk/lobe-icons/commit/509d749))
+- **misc**: Add IFlyTekCloud (resolve, closes [#78](https://github.com/bentwnghk/lobe-icons/issues/78) ([0ac8b5f](https://github.com/bentwnghk/lobe-icons/commit/0ac8b5f))
+- **misc**: Add StateCloud, closes [#83](https://github.com/bentwnghk/lobe-icons/issues/83) ([a7f4aa7](https://github.com/bentwnghk/lobe-icons/commit/a7f4aa7))
+
+#### Styles
+
+- **misc**: Update new grok logo (fix, closes [#79](https://github.com/bentwnghk/lobe-icons/issues/79) ([d5f4a97](https://github.com/bentwnghk/lobe-icons/commit/d5f4a97))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.17.0](https://github.com/bentwnghk/lobe-icons/compare/v1.16.0...v1.17.0)
 
 <sup>Released on **2025-02-18**</sup>
