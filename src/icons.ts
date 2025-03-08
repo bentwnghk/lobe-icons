@@ -12,6 +12,7 @@ export { default as Aws, type CompoundedIcon as AwsProps } from './Aws';
 export { default as Aya, type CompoundedIcon as AyaProps } from './Aya';
 export { default as Azure, type CompoundedIcon as AzureProps } from './Azure';
 export { default as AzureAI, type CompoundedIcon as AzureAIProps } from './AzureAI';
+export { default as BAAI, type CompoundedIcon as BAAIProps } from './BAAI';
 export { default as Baichuan, type CompoundedIcon as BaichuanProps } from './Baichuan';
 export { default as Baidu, type CompoundedIcon as BaiduProps } from './Baidu';
 export { default as BaiduCloud, type CompoundedIcon as BaiduCloudProps } from './BaiduCloud';
@@ -62,6 +63,7 @@ export { default as Higress, type CompoundedIcon as HigressProps } from './Higre
 export { default as HuggingFace, type CompoundedIcon as HuggingFaceProps } from './HuggingFace';
 export { default as Hunyuan, type CompoundedIcon as HunyuanProps } from './Hunyuan';
 export { default as Ideogram, type CompoundedIcon as IdeogramProps } from './Ideogram';
+export { default as IFlyTekCloud, type CompoundedIcon as IFlyTekCloudProps } from './IFlyTekCloud';
 export { default as InternLM, type CompoundedIcon as InternLMProps } from './InternLM';
 export { default as Jina, type CompoundedIcon as JinaProps } from './Jina';
 export { default as Kimi, type CompoundedIcon as KimiProps } from './Kimi';
@@ -106,10 +108,12 @@ export { default as Replit, type CompoundedIcon as ReplitProps } from './Replit'
 export { default as Runway, type CompoundedIcon as RunwayProps } from './Runway';
 export { default as Rwkv, type CompoundedIcon as RwkvProps } from './Rwkv';
 export { default as SambaNova, type CompoundedIcon as SambaNovaProps } from './SambaNova';
+export { default as Search1API, type CompoundedIcon as Search1APIProps } from './Search1API';
 export { default as SenseNova, type CompoundedIcon as SenseNovaProps } from './SenseNova';
 export { default as SiliconCloud, type CompoundedIcon as SiliconCloudProps } from './SiliconCloud';
 export { default as Spark, type CompoundedIcon as SparkProps } from './Spark';
 export { default as Stability, type CompoundedIcon as StabilityProps } from './Stability';
+export { default as StateCloud, type CompoundedIcon as StateCloudProps } from './StateCloud';
 export { default as Stepfun, type CompoundedIcon as StepfunProps } from './Stepfun';
 export { default as Suno, type CompoundedIcon as SunoProps } from './Suno';
 export { default as Sync, type CompoundedIcon as SyncProps } from './Sync';
