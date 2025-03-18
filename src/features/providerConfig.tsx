@@ -13,6 +13,7 @@ import BaiduCloud from '@/BaiduCloud';
 import Bedrock from '@/Bedrock';
 import Claude from '@/Claude';
 import Cloudflare from '@/Cloudflare';
+import Cohere from '@/Cohere';
 import DeepSeek from '@/DeepSeek';
 import Doubao from '@/Doubao';
 import Fireworks from '@/Fireworks';
@@ -41,6 +42,7 @@ import PPIO from '@/PPIO';
 import Perplexity from '@/Perplexity';
 import Qwen from '@/Qwen';
 import SambaNova from '@/SambaNova';
+import Search1API from '@/Search1API';
 import SenseNova from '@/SenseNova';
 import SiliconCloud from '@/SiliconCloud';
 import Spark from '@/Spark';
@@ -207,4 +209,6 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: AzureAI, keywords: [ModelProvider.AzureAI] },
   { Icon: Volcengine, keywords: [ModelProvider.Volcengine] },
   { Icon: SambaNova, combineMultiple: 0.85, keywords: [ModelProvider.SambaNova] },
+  { Icon: Cohere, keywords: [ModelProvider.Cohere] },
+  { Icon: Search1API, keywords: [ModelProvider.Search1API] },
 ];
