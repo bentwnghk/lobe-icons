@@ -2,6 +2,59 @@
 
 # Changelog
 
+## [Version 1.19.0](https://github.com/bentwnghk/lobe-icons/compare/v1.18.0...v1.19.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons.
+- **misc**: Add Cline, Goose, Add CommandA (Cohere), Add Google AI Studio (resolve, Add Gradio, Add LlamaIndex, LangGraph, LangSmith, Add Manus, Monica, OpenWebUI, Flowith, n8n, Make (resolve, Add Phidata, CrewAI, Add Unstructured, Greptile, DocSearch.
+
+#### 💄 Styles
+
+- **misc**: Fix cohere, Fix LangSmith, support cohere provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([6976e64](https://github.com/bentwnghk/lobe-icons/commit/6976e64))
+- **auto**: Auto build static icons ([362c4ea](https://github.com/bentwnghk/lobe-icons/commit/362c4ea))
+- **auto**: Auto build static icons ([dd1d022](https://github.com/bentwnghk/lobe-icons/commit/dd1d022))
+- **auto**: Auto build static icons ([3c0566f](https://github.com/bentwnghk/lobe-icons/commit/3c0566f))
+- **auto**: Auto build static icons ([b6bdf36](https://github.com/bentwnghk/lobe-icons/commit/b6bdf36))
+- **auto**: Auto build static icons ([298dcb3](https://github.com/bentwnghk/lobe-icons/commit/298dcb3))
+- **auto**: Auto build static icons ([7bc5738](https://github.com/bentwnghk/lobe-icons/commit/7bc5738))
+- **auto**: Auto build static icons ([2df73b8](https://github.com/bentwnghk/lobe-icons/commit/2df73b8))
+- **auto**: Auto build static icons ([2889d30](https://github.com/bentwnghk/lobe-icons/commit/2889d30))
+- **auto**: Auto build static icons ([288c174](https://github.com/bentwnghk/lobe-icons/commit/288c174))
+- **misc**: Add Cline, Goose ([b0a8b10](https://github.com/bentwnghk/lobe-icons/commit/b0a8b10))
+- **misc**: Add CommandA (Cohere) ([3e11c2c](https://github.com/bentwnghk/lobe-icons/commit/3e11c2c))
+- **misc**: Add Google AI Studio (resolve, closes [#70](https://github.com/bentwnghk/lobe-icons/issues/70) ([f33936d](https://github.com/bentwnghk/lobe-icons/commit/f33936d))
+- **misc**: Add Gradio ([ce6def2](https://github.com/bentwnghk/lobe-icons/commit/ce6def2))
+- **misc**: Add LlamaIndex, LangGraph, LangSmith ([24a2594](https://github.com/bentwnghk/lobe-icons/commit/24a2594))
+- **misc**: Add Manus, Monica, OpenWebUI, Flowith, n8n, Make (resolve, closes [#86](https://github.com/bentwnghk/lobe-icons/issues/86) ([6c8f1ac](https://github.com/bentwnghk/lobe-icons/commit/6c8f1ac))
+- **misc**: Add Phidata, CrewAI ([ee7e9fb](https://github.com/bentwnghk/lobe-icons/commit/ee7e9fb))
+- **misc**: Add Unstructured, Greptile, DocSearch ([2d1845c](https://github.com/bentwnghk/lobe-icons/commit/2d1845c))
+
+#### Styles
+
+- **misc**: Fix cohere ([439fac3](https://github.com/bentwnghk/lobe-icons/commit/439fac3))
+- **misc**: Fix LangSmith ([1e03576](https://github.com/bentwnghk/lobe-icons/commit/1e03576))
+- **misc**: Support cohere provider, closes [#88](https://github.com/bentwnghk/lobe-icons/issues/88) ([4d46e81](https://github.com/bentwnghk/lobe-icons/commit/4d46e81))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.18.0](https://github.com/bentwnghk/lobe-icons/compare/v1.17.0...v1.18.0)
 
 <sup>Released on **2025-03-08**</sup>
