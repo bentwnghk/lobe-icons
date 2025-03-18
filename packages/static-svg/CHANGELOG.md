@@ -2,6 +2,39 @@
 
 # Changelog
 
+## [Version 1.14.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-svg@1.13.0...@bentwnghk/icons-static-svg@1.14.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([6976e64](https://github.com/bentwnghk/lobe-icons/commit/6976e64))
+- **auto**: Auto build static icons ([362c4ea](https://github.com/bentwnghk/lobe-icons/commit/362c4ea))
+- **auto**: Auto build static icons ([dd1d022](https://github.com/bentwnghk/lobe-icons/commit/dd1d022))
+- **auto**: Auto build static icons ([3c0566f](https://github.com/bentwnghk/lobe-icons/commit/3c0566f))
+- **auto**: Auto build static icons ([b6bdf36](https://github.com/bentwnghk/lobe-icons/commit/b6bdf36))
+- **auto**: Auto build static icons ([298dcb3](https://github.com/bentwnghk/lobe-icons/commit/298dcb3))
+- **auto**: Auto build static icons ([7bc5738](https://github.com/bentwnghk/lobe-icons/commit/7bc5738))
+- **auto**: Auto build static icons ([2df73b8](https://github.com/bentwnghk/lobe-icons/commit/2df73b8))
+- **auto**: Auto build static icons ([2889d30](https://github.com/bentwnghk/lobe-icons/commit/2889d30))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.13.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-svg@1.12.0...@bentwnghk/icons-static-svg@1.13.0)
 
 <sup>Released on **2025-03-08**</sup>
