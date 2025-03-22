@@ -2,6 +2,39 @@
 
 # Changelog
 
+## [Version 1.20.0](https://github.com/bentwnghk/lobe-icons/compare/v1.19.0...v1.20.0)
+
+<sup>Released on **2025-03-22**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+#### 💄 Styles
+
+- **misc**: Add Infinigence Provider icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([fb2579e](https://github.com/bentwnghk/lobe-icons/commit/fb2579e))
+
+#### Styles
+
+- **misc**: Add Infinigence Provider icons ([0e8277f](https://github.com/bentwnghk/lobe-icons/commit/0e8277f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.19.0](https://github.com/bentwnghk/lobe-icons/compare/v1.18.0...v1.19.0)
 
 <sup>Released on **2025-03-18**</sup>
