@@ -2,13 +2,13 @@
 
 # Changelog
 
-## [Version 1.13.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-webp@1.12.0...@bentwnghk/icons-static-webp@1.13.0)
+## [Version 1.41.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.40.0...@lobehub/icons-static-webp@1.41.0)
 
-<sup>Released on **2025-03-18**</sup>
+<sup>Released on **2025-03-23**</sup>
 
 #### ✨ Features
 
-- **auto**: Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons.
+- **auto**: Auto build static icons.
 
 <br/>
 
@@ -17,15 +17,7 @@
 
 #### What's improved
 
-- **auto**: Auto build static icons ([6976e64](https://github.com/bentwnghk/lobe-icons/commit/6976e64))
-- **auto**: Auto build static icons ([362c4ea](https://github.com/bentwnghk/lobe-icons/commit/362c4ea))
-- **auto**: Auto build static icons ([dd1d022](https://github.com/bentwnghk/lobe-icons/commit/dd1d022))
-- **auto**: Auto build static icons ([3c0566f](https://github.com/bentwnghk/lobe-icons/commit/3c0566f))
-- **auto**: Auto build static icons ([b6bdf36](https://github.com/bentwnghk/lobe-icons/commit/b6bdf36))
-- **auto**: Auto build static icons ([298dcb3](https://github.com/bentwnghk/lobe-icons/commit/298dcb3))
-- **auto**: Auto build static icons ([7bc5738](https://github.com/bentwnghk/lobe-icons/commit/7bc5738))
-- **auto**: Auto build static icons ([2df73b8](https://github.com/bentwnghk/lobe-icons/commit/2df73b8))
-- **auto**: Auto build static icons ([2889d30](https://github.com/bentwnghk/lobe-icons/commit/2889d30))
+- **auto**: Auto build static icons ([eeff5aa](https://github.com/lobehub/lobe-icons/commit/eeff5aa))
 
 </details>
 
@@ -35,13 +27,13 @@
 
 </div>
 
-## [Version 1.12.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-webp@1.11.0...@bentwnghk/icons-static-webp@1.12.0)
+## [Version 1.40.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.39.0...@lobehub/icons-static-webp@1.40.0)
 
-<sup>Released on **2025-03-08**</sup>
+<sup>Released on **2025-03-23**</sup>
 
 #### ✨ Features
 
-- **auto**: Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons, Auto build static icons.
+- **auto**: Auto build static icons.
 
 <br/>
 
@@ -50,11 +42,257 @@
 
 #### What's improved
 
-- **auto**: Auto build static icons ([610d824](https://github.com/bentwnghk/lobe-icons/commit/610d824))
-- **auto**: Auto build static icons ([58ad35b](https://github.com/bentwnghk/lobe-icons/commit/58ad35b))
-- **auto**: Auto build static icons ([f3aabe9](https://github.com/bentwnghk/lobe-icons/commit/f3aabe9))
-- **auto**: Auto build static icons ([d5a35c9](https://github.com/bentwnghk/lobe-icons/commit/d5a35c9))
-- **auto**: Auto build static icons ([54126d0](https://github.com/bentwnghk/lobe-icons/commit/54126d0))
+- **auto**: Auto build static icons ([9de6a04](https://github.com/lobehub/lobe-icons/commit/9de6a04))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.39.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.38.0...@lobehub/icons-static-webp@1.39.0)
+
+<sup>Released on **2025-03-22**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([fd2e5fa](https://github.com/lobehub/lobe-icons/commit/fd2e5fa))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.38.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.37.0...@lobehub/icons-static-webp@1.38.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([6976e64](https://github.com/lobehub/lobe-icons/commit/6976e64))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.37.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.36.0...@lobehub/icons-static-webp@1.37.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([362c4ea](https://github.com/lobehub/lobe-icons/commit/362c4ea))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.36.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.35.0...@lobehub/icons-static-webp@1.36.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([dd1d022](https://github.com/lobehub/lobe-icons/commit/dd1d022))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.35.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.34.0...@lobehub/icons-static-webp@1.35.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([3c0566f](https://github.com/lobehub/lobe-icons/commit/3c0566f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.34.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.33.0...@lobehub/icons-static-webp@1.34.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([b6bdf36](https://github.com/lobehub/lobe-icons/commit/b6bdf36))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.33.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.32.0...@lobehub/icons-static-webp@1.33.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([298dcb3](https://github.com/lobehub/lobe-icons/commit/298dcb3))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.32.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.31.0...@lobehub/icons-static-webp@1.32.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([7bc5738](https://github.com/lobehub/lobe-icons/commit/7bc5738))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.31.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.30.0...@lobehub/icons-static-webp@1.31.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([2df73b8](https://github.com/lobehub/lobe-icons/commit/2df73b8))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.30.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.29.0...@lobehub/icons-static-webp@1.30.0)
+
+<sup>Released on **2025-03-18**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([2889d30](https://github.com/lobehub/lobe-icons/commit/2889d30))
 
 </details>
 

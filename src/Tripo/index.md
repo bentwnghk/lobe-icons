@@ -3,7 +3,7 @@ nav: Components
 group: Application
 title: Tripo
 atomId: Tripo
-description: https://www.tripo3d.ai
+description: https://tripo3d.ai
 ---
 
 ## Icons

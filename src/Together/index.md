@@ -3,7 +3,7 @@ nav: Components
 group: Provider
 title: together.ai
 atomId: Together
-description: https://www.together.ai
+description: https://together.ai
 ---
 
 ## Icons
