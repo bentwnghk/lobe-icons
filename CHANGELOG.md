@@ -2,6 +2,38 @@
 
 # Changelog
 
+## [Version 1.21.0](https://github.com/bentwnghk/lobe-icons/compare/v1.20.0...v1.21.0)
+
+<sup>Released on **2025-03-23**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons.
+- **misc**: Add Cerebras, DeepInfra, Add DreamMachine, TopazLabs, Yuanbao, Add KREA (resolve, Add NotebookLM, Flora, Exa, SearchApi, VectorizerAI, RSSHub, Doc2X.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([eeff5aa](https://github.com/bentwnghk/lobe-icons/commit/eeff5aa))
+- **auto**: Auto build static icons ([9de6a04](https://github.com/bentwnghk/lobe-icons/commit/9de6a04))
+- **auto**: Auto build static icons ([fd2e5fa](https://github.com/bentwnghk/lobe-icons/commit/fd2e5fa))
+- **misc**: Add Cerebras, DeepInfra ([c56a1d0](https://github.com/bentwnghk/lobe-icons/commit/c56a1d0))
+- **misc**: Add DreamMachine, TopazLabs, Yuanbao ([c22e36f](https://github.com/bentwnghk/lobe-icons/commit/c22e36f))
+- **misc**: Add KREA (resolve, closes [#90](https://github.com/bentwnghk/lobe-icons/issues/90) ([b7122a7](https://github.com/bentwnghk/lobe-icons/commit/b7122a7))
+- **misc**: Add NotebookLM, Flora, Exa, SearchApi, VectorizerAI, RSSHub, Doc2X ([39162a9](https://github.com/bentwnghk/lobe-icons/commit/39162a9))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.20.0](https://github.com/bentwnghk/lobe-icons/compare/v1.19.0...v1.20.0)
 
 <sup>Released on **2025-03-22**</sup>
