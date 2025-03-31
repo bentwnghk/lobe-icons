@@ -2,6 +2,36 @@
 
 # Changelog
 
+## [Version 1.22.0](https://github.com/bentwnghk/lobe-icons/compare/v1.21.0...v1.22.0)
+
+<sup>Released on **2025-03-31**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons, Auto build static icons.
+- **misc**: Add as AlephAlpha, Anyscale, AssemblyAI, CentML, Friendli, Hyperbolic, Kluster, Liquid, Nebius, NPLCloud, Snowflake, Voyage (resolve, Add Xinference, Coqui.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([e45c3d4](https://github.com/bentwnghk/lobe-icons/commit/e45c3d4))
+- **auto**: Auto build static icons ([3ec35c6](https://github.com/bentwnghk/lobe-icons/commit/3ec35c6))
+- **auto**: Auto build static icons ([55fd9a3](https://github.com/bentwnghk/lobe-icons/commit/55fd9a3))
+- **misc**: Add as AlephAlpha, Anyscale, AssemblyAI, CentML, Friendli, Hyperbolic, Kluster, Liquid, Nebius, NPLCloud, Snowflake, Voyage (resolve, closes [#91](https://github.com/bentwnghk/lobe-icons/issues/91) ([abf2021](https://github.com/bentwnghk/lobe-icons/commit/abf2021))
+- **misc**: Add Xinference, Coqui ([3ac1eea](https://github.com/bentwnghk/lobe-icons/commit/3ac1eea))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.21.0](https://github.com/bentwnghk/lobe-icons/compare/v1.20.0...v1.21.0)
 
 <sup>Released on **2025-03-23**</sup>
