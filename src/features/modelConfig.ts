@@ -4,9 +4,9 @@ import Adobe from '@/Adobe';
 import Ai21 from '@/Ai21';
 import Ai360 from '@/Ai360';
 import AiMass from '@/AiMass';
+import AssemblyAI from '@/AssemblyAI';
 import Aws from '@/Aws';
 import Aya from '@/Aya';
-import Azure from '@/Azure';
 import Baichuan from '@/Baichuan';
 import ByteDance from '@/ByteDance';
 import ChatGLM from '@/ChatGLM';
@@ -29,7 +29,9 @@ import Ideogram from '@/Ideogram';
 import InternLM from '@/InternLM';
 import Jina from '@/Jina';
 import LLaVA from '@/LLaVA';
+import Liquid from '@/Liquid';
 import Meta from '@/Meta';
+import Microsoft from '@/Microsoft';
 import Minimax from '@/Minimax';
 import Mistral from '@/Mistral';
 import Moonshot from '@/Moonshot';
@@ -47,6 +49,7 @@ import Stepfun from '@/Stepfun';
 import Suno from '@/Suno';
 import Udio from '@/Udio';
 import Upstage from '@/Upstage';
+import Voyage from '@/Voyage';
 import Wenxin from '@/Wenxin';
 import Yi from '@/Yi';
 import type { IconAvatarProps } from '@/features/IconAvatar';
@@ -127,7 +130,7 @@ export const modelMappings: ModelMapping[] = [
   },
   { Icon: Flux, keywords: ['flux'] },
   { Icon: Suno, keywords: ['suno'] },
-  { Icon: Azure, keywords: ['wizardlm', 'phi3', 'phi-3', 'phi-2'] },
+  { Icon: Microsoft, keywords: ['wizardlm', 'phi3', '^/phi-', '^phi-'] },
   { Icon: Adobe, keywords: ['firefly'] },
   { Icon: Ai21, keywords: ['jamba', '^j2-', 'ai21'] },
   { Icon: Upstage, keywords: ['^solar-', '/solar'] },
@@ -151,4 +154,7 @@ export const modelMappings: ModelMapping[] = [
   },
   { Icon: Udio, keywords: ['udio'] },
   { Icon: DeepSeek, keywords: ['deepseek'] },
+  { Icon: Voyage, keywords: ['voyage'] },
+  { Icon: AssemblyAI, keywords: ['assemblyai'] },
+  { Icon: Liquid, keywords: ['liquid', 'lfm'] },
 ];

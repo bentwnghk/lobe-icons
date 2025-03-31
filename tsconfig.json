@@ -20,5 +20,5 @@
       "@bentwnghk/icons/*": ["src/*"]
     }
   },
-  "include": ["src", "docs", "tests", ".dumirc.ts", ".fatherrc.ts"]
+  "include": ["src", "docs", "tests", ".dumirc.ts", ".fatherrc.ts", "scripts"]
 }
