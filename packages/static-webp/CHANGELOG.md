@@ -2,13 +2,13 @@
 
 # Changelog
 
-## [Version 1.15.0](https://github.com/bentwnghk/lobe-icons/compare/@bentwnghk/icons-static-webp@1.14.0...@bentwnghk/icons-static-webp@1.15.0)
+## [Version 1.44.0](https://github.com/lobehub/lobe-icons/compare/@lobehub/icons-static-webp@1.43.0...@lobehub/icons-static-webp@1.44.0)
 
-<sup>Released on **2025-03-31**</sup>
+<sup>Released on **2025-04-10**</sup>
 
 #### ✨ Features
 
-- **auto**: Auto build static icons, Auto build static icons.
+- **auto**: Auto build static icons.
 
 <br/>
 
@@ -17,8 +17,7 @@
 
 #### What's improved
 
-- **auto**: Auto build static icons ([e45c3d4](https://github.com/bentwnghk/lobe-icons/commit/e45c3d4))
-- **auto**: Auto build static icons ([3ec35c6](https://github.com/bentwnghk/lobe-icons/commit/3ec35c6))
+- **auto**: Auto build static icons ([d1e2c0b](https://github.com/lobehub/lobe-icons/commit/d1e2c0b))
 
 </details>
 
