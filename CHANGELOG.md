@@ -2,6 +2,43 @@
 
 # Changelog
 
+## [Version 1.23.0](https://github.com/bentwnghk/lobe-icons/compare/v1.22.0...v1.23.0)
+
+<sup>Released on **2025-04-20**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons.
+- **misc**: Add AiHubMix, AionLabs, Crusoe, Featherless, Inference, Infermatic, Inflection, LeptonAI, Parasail, Targon.
+
+#### 💄 Styles
+
+- **misc**: Add `SenseNova-V6` series icon support, support o4 icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([d1e2c0b](https://github.com/bentwnghk/lobe-icons/commit/d1e2c0b))
+- **auto**: Auto build static icons ([84fe926](https://github.com/bentwnghk/lobe-icons/commit/84fe926))
+- **misc**: Add AiHubMix, AionLabs, Crusoe, Featherless, Inference, Infermatic, Inflection, LeptonAI, Parasail, Targon, closes [#95](https://github.com/bentwnghk/lobe-icons/issues/95) [#93](https://github.com/bentwnghk/lobe-icons/issues/93) [#94](https://github.com/bentwnghk/lobe-icons/issues/94) ([3a9daf1](https://github.com/bentwnghk/lobe-icons/commit/3a9daf1))
+
+#### Styles
+
+- **misc**: Add `SenseNova-V6` series icon support, closes [#100](https://github.com/bentwnghk/lobe-icons/issues/100) ([772c866](https://github.com/bentwnghk/lobe-icons/commit/772c866))
+- **misc**: Support o4 icons, closes [#101](https://github.com/bentwnghk/lobe-icons/issues/101) ([3659051](https://github.com/bentwnghk/lobe-icons/commit/3659051))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.22.0](https://github.com/bentwnghk/lobe-icons/compare/v1.21.0...v1.22.0)
 
 <sup>Released on **2025-03-31**</sup>
