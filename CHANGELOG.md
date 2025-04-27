@@ -2,6 +2,40 @@
 
 # Changelog
 
+## [Version 1.24.0](https://github.com/bentwnghk/lobe-icons/compare/v1.23.0...v1.24.0)
+
+<sup>Released on **2025-04-27**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons, Auto build static icons.
+
+#### 💄 Styles
+
+- **misc**: Support Spark X1 icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([44891e7](https://github.com/bentwnghk/lobe-icons/commit/44891e7))
+- **auto**: Auto build static icons ([04ac66d](https://github.com/bentwnghk/lobe-icons/commit/04ac66d))
+
+#### Styles
+
+- **misc**: Support Spark X1 icons, closes [#102](https://github.com/bentwnghk/lobe-icons/issues/102) ([8b34ef8](https://github.com/bentwnghk/lobe-icons/commit/8b34ef8))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.23.0](https://github.com/bentwnghk/lobe-icons/compare/v1.22.0...v1.23.0)
 
 <sup>Released on **2025-04-20**</sup>
