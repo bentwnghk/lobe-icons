@@ -1,4 +1,4 @@
-import { StoryBook, useControls, useCreateStore } from '@bentwnghk/ui';
+import { StoryBook, useControls, useCreateStore } from '@bentwnghk/ui/storybook';
 import { createStyles } from 'antd-style';
 import { useEffect, useRef, useState } from 'react';
 import { Flexbox } from 'react-layout-kit';

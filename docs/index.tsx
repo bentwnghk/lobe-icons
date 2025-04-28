@@ -1,4 +1,5 @@
-import { Features, FeaturesProps, Snippet } from '@bentwnghk/ui';
+import { Snippet } from '@bentwnghk/ui';
+import { Features, FeaturesProps } from '@bentwnghk/ui/awesome';
 import { Expand, GitPullRequest, Trees } from 'lucide-react';
 import { Center, Flexbox } from 'react-layout-kit';
 
