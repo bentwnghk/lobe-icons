@@ -2,6 +2,38 @@
 
 # Changelog
 
+## [Version 2.0.0](https://github.com/bentwnghk/lobe-icons/compare/v1.24.0...v2.0.0)
+
+<sup>Released on **2025-04-29**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+- **misc**: Bump v2 \[force major], Migrate to @lobehub/ui v2 \[force major].
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([2283e2c](https://github.com/bentwnghk/lobe-icons/commit/2283e2c))
+- **misc**: Bump v2 \[force major] ([7fbbc2e](https://github.com/bentwnghk/lobe-icons/commit/7fbbc2e))
+- **misc**: Migrate to @lobehub/ui v2 \[force major], closes [#97](https://github.com/bentwnghk/lobe-icons/issues/97) ([d832e82](https://github.com/bentwnghk/lobe-icons/commit/d832e82))
+
+</details>
+
+#### 💥 BREAKING CHANGES
+
+- **misc**: <https://github.com/lobehub/lobe-ui/pull/322>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.24.0](https://github.com/bentwnghk/lobe-icons/compare/v1.23.0...v1.24.0)
 
 <sup>Released on **2025-04-27**</sup>
