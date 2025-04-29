@@ -9,7 +9,7 @@ description: https://vectorizer.ai
 ## Icons
 
 ```tsx
-import { VectorizerAI } from '@lobehub/icons';
+import { VectorizerAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -22,7 +22,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { VectorizerAI } from '@lobehub/icons';
+import { VectorizerAI } from '@bentwnghk/icons';
 
 export default () => <VectorizerAI.Text size={48} />;
 ```
@@ -30,7 +30,7 @@ export default () => <VectorizerAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { VectorizerAI } from '@lobehub/icons';
+import { VectorizerAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -43,7 +43,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { VectorizerAI } from '@lobehub/icons';
+import { VectorizerAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -57,7 +57,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { VectorizerAI } from '@lobehub/icons';
+import { VectorizerAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

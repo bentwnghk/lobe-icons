@@ -9,7 +9,7 @@ description: https://crewai.com
 ## Icons
 
 ```tsx
-import { CrewAI } from '@lobehub/icons';
+import { CrewAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { CrewAI } from '@lobehub/icons';
+import { CrewAI } from '@bentwnghk/icons';
 
 export default () => <CrewAI.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <CrewAI.Text size={48} />;
 ## Brand
 
 ```tsx
-import { CrewAI } from '@lobehub/icons';
+import { CrewAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { CrewAI } from '@lobehub/icons';
+import { CrewAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { CrewAI } from '@lobehub/icons';
+import { CrewAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -73,7 +73,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { CrewAI } from '@lobehub/icons';
+import { CrewAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

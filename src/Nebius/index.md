@@ -9,7 +9,7 @@ description: https://nebius.com
 ## Icons
 
 ```tsx
-import { Nebius } from '@lobehub/icons';
+import { Nebius } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Nebius size={64} />;
@@ -18,7 +18,7 @@ export default () => <Nebius size={64} />;
 ## Text
 
 ```tsx
-import { Nebius } from '@lobehub/icons';
+import { Nebius } from '@bentwnghk/icons';
 
 export default () => <Nebius.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Nebius.Text size={48} />;
 ## Avatars
 
 ```tsx
-import { Nebius } from '@lobehub/icons';
+import { Nebius } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -40,7 +40,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Nebius } from '@lobehub/icons';
+import { Nebius } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

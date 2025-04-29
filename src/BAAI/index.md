@@ -9,7 +9,7 @@ description: https://baai.ac.cn
 ## Icons
 
 ```tsx
-import { BAAI } from '@lobehub/icons';
+import { BAAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <BAAI size={64} />;
@@ -18,7 +18,7 @@ export default () => <BAAI size={64} />;
 ## Text
 
 ```tsx
-import { BAAI } from '@lobehub/icons';
+import { BAAI } from '@bentwnghk/icons';
 
 export default () => <BAAI.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <BAAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { BAAI } from '@lobehub/icons';
+import { BAAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { BAAI } from '@lobehub/icons';
+import { BAAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { BAAI } from '@lobehub/icons';
+import { BAAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

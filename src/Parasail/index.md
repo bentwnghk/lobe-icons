@@ -9,7 +9,7 @@ description: https://parasail.io/
 ## Icons
 
 ```tsx
-import { Parasail } from '@lobehub/icons';
+import { Parasail } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Parasail size={64} />;
@@ -18,7 +18,7 @@ export default () => <Parasail size={64} />;
 ## Text
 
 ```tsx
-import { Parasail } from '@lobehub/icons';
+import { Parasail } from '@bentwnghk/icons';
 
 export default () => <Parasail.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Parasail.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Parasail } from '@lobehub/icons';
+import { Parasail } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Parasail } from '@lobehub/icons';
+import { Parasail } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Parasail } from '@lobehub/icons';
+import { Parasail } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

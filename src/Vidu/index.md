@@ -11,7 +11,7 @@ description: https://vidu.com
 ## Icons
 
 ```tsx
-import { Vidu } from '@lobehub/icons';
+import { Vidu } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Vidu } from '@lobehub/icons';
+import { Vidu } from '@bentwnghk/icons';
 
 export default () => <Vidu.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <Vidu.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Vidu } from '@lobehub/icons';
+import { Vidu } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Vidu } from '@lobehub/icons';
+import { Vidu } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -62,7 +62,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Vidu } from '@lobehub/icons';
+import { Vidu } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

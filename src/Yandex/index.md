@@ -9,7 +9,7 @@ description: https://ai.yandex.com
 ## Icons
 
 ```tsx
-import { Yandex } from '@lobehub/icons';
+import { Yandex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Yandex size={64} />;
@@ -18,7 +18,7 @@ export default () => <Yandex size={64} />;
 ## Text
 
 ```tsx
-import { Yandex } from '@lobehub/icons';
+import { Yandex } from '@bentwnghk/icons';
 
 export default () => <Yandex.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Yandex.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Yandex } from '@lobehub/icons';
+import { Yandex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Yandex } from '@lobehub/icons';
+import { Yandex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Yandex } from '@lobehub/icons';
+import { Yandex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

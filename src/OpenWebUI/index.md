@@ -9,7 +9,7 @@ description: https://openwebui.com
 ## Icons
 
 ```tsx
-import { OpenWebUI } from '@lobehub/icons';
+import { OpenWebUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <OpenWebUI size={64} />;
@@ -18,7 +18,7 @@ export default () => <OpenWebUI size={64} />;
 ## Text
 
 ```tsx
-import { OpenWebUI } from '@lobehub/icons';
+import { OpenWebUI } from '@bentwnghk/icons';
 
 export default () => <OpenWebUI.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <OpenWebUI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { OpenWebUI } from '@lobehub/icons';
+import { OpenWebUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { OpenWebUI } from '@lobehub/icons';
+import { OpenWebUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { OpenWebUI } from '@lobehub/icons';
+import { OpenWebUI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

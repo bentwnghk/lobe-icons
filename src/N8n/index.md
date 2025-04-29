@@ -9,7 +9,7 @@ description: https://n8n.io
 ## Icons
 
 ```tsx
-import { N8n } from '@lobehub/icons';
+import { N8n } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { N8n } from '@lobehub/icons';
+import { N8n } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -36,7 +36,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { N8n } from '@lobehub/icons';
+import { N8n } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -50,7 +50,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { N8n } from '@lobehub/icons';
+import { N8n } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -64,7 +64,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { N8n } from '@lobehub/icons';
+import { N8n } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

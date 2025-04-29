@@ -9,7 +9,7 @@ description: https://centml.ai
 ## Icons
 
 ```tsx
-import { CentML } from '@lobehub/icons';
+import { CentML } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { CentML } from '@lobehub/icons';
+import { CentML } from '@bentwnghk/icons';
 
 export default () => <CentML.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <CentML.Text size={48} />;
 ## Combine
 
 ```tsx
-import { CentML } from '@lobehub/icons';
+import { CentML } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Brands
 
 ```tsx
-import { CentML } from '@lobehub/icons';
+import { CentML } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { CentML } from '@lobehub/icons';
+import { CentML } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -73,7 +73,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { CentML } from '@lobehub/icons';
+import { CentML } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

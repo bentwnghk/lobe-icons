@@ -9,7 +9,7 @@ description: https://monica.im
 ## Icons
 
 ```tsx
-import { Monica } from '@lobehub/icons';
+import { Monica } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Monica } from '@lobehub/icons';
+import { Monica } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -36,7 +36,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { Monica } from '@lobehub/icons';
+import { Monica } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -50,7 +50,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Monica } from '@lobehub/icons';
+import { Monica } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -65,7 +65,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Monica } from '@lobehub/icons';
+import { Monica } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

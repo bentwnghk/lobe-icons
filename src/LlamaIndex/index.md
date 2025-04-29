@@ -9,7 +9,7 @@ description: https://llamaindex.ai
 ## Icons
 
 ```tsx
-import { LlamaIndex } from '@lobehub/icons';
+import { LlamaIndex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { LlamaIndex } from '@lobehub/icons';
+import { LlamaIndex } from '@bentwnghk/icons';
 
 export default () => <LlamaIndex.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <LlamaIndex.Text size={48} />;
 ## Combine
 
 ```tsx
-import { LlamaIndex } from '@lobehub/icons';
+import { LlamaIndex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -44,7 +44,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { LlamaIndex } from '@lobehub/icons';
+import { LlamaIndex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -58,7 +58,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { LlamaIndex } from '@lobehub/icons';
+import { LlamaIndex } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

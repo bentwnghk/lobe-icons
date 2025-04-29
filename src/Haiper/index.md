@@ -9,7 +9,7 @@ description: https://haiper.ai
 ## Icons
 
 ```tsx
-import { Haiper } from '@lobehub/icons';
+import { Haiper } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Haiper size={64} />;
@@ -18,7 +18,7 @@ export default () => <Haiper size={64} />;
 ## Text
 
 ```tsx
-import { Haiper } from '@lobehub/icons';
+import { Haiper } from '@bentwnghk/icons';
 
 export default () => <Haiper.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Haiper.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Haiper } from '@lobehub/icons';
+import { Haiper } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Haiper } from '@lobehub/icons';
+import { Haiper } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Haiper } from '@lobehub/icons';
+import { Haiper } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

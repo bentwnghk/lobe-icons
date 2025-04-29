@@ -9,7 +9,7 @@ description: https://exa.ai
 ## Icons
 
 ```tsx
-import { Exa } from '@lobehub/icons';
+import { Exa } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Exa } from '@lobehub/icons';
+import { Exa } from '@bentwnghk/icons';
 
 export default () => <Exa.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Exa.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Exa } from '@lobehub/icons';
+import { Exa } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Exa } from '@lobehub/icons';
+import { Exa } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Exa } from '@lobehub/icons';
+import { Exa } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

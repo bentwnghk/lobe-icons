@@ -9,7 +9,7 @@ description: https://ctyun.cn/act/xirang/deepseek
 ## Icons
 
 ```tsx
-import { StateCloud } from '@lobehub/icons';
+import { StateCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { StateCloud } from '@lobehub/icons';
+import { StateCloud } from '@bentwnghk/icons';
 
 export default () => <StateCloud.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <StateCloud.Text size={48} />;
 ## Combine
 
 ```tsx
-import { StateCloud } from '@lobehub/icons';
+import { StateCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { StateCloud } from '@lobehub/icons';
+import { StateCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { StateCloud } from '@lobehub/icons';
+import { StateCloud } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

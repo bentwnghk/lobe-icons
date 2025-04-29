@@ -9,7 +9,7 @@ description: https://ai.azure.com
 ## Icons
 
 ```tsx
-import { AzureAI } from '@lobehub/icons';
+import { AzureAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { AzureAI } from '@lobehub/icons';
+import { AzureAI } from '@bentwnghk/icons';
 
 export default () => <AzureAI.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <AzureAI.Text size={48} />;
 ## Combine
 
 ```tsx
-import { AzureAI } from '@lobehub/icons';
+import { AzureAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { AzureAI } from '@lobehub/icons';
+import { AzureAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { AzureAI } from '@lobehub/icons';
+import { AzureAI } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

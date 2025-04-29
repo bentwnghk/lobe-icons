@@ -9,7 +9,7 @@ description: https://github.com/coqui-ai/TTS
 ## Icons
 
 ```tsx
-import { Coqui } from '@lobehub/icons';
+import { Coqui } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Coqui } from '@lobehub/icons';
+import { Coqui } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -36,7 +36,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { Coqui } from '@lobehub/icons';
+import { Coqui } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -50,7 +50,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Coqui } from '@lobehub/icons';
+import { Coqui } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -64,7 +64,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Coqui } from '@lobehub/icons';
+import { Coqui } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

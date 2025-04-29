@@ -9,7 +9,7 @@ description: https://aleph-alpha.com
 ## Icons
 
 ```tsx
-import { AlephAlpha } from '@lobehub/icons';
+import { AlephAlpha } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <AlephAlpha size={64} />;
@@ -18,7 +18,7 @@ export default () => <AlephAlpha size={64} />;
 ## Text
 
 ```tsx
-import { AlephAlpha } from '@lobehub/icons';
+import { AlephAlpha } from '@bentwnghk/icons';
 
 export default () => <AlephAlpha.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <AlephAlpha.Text size={48} />;
 ## Combine
 
 ```tsx
-import { AlephAlpha } from '@lobehub/icons';
+import { AlephAlpha } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { AlephAlpha } from '@lobehub/icons';
+import { AlephAlpha } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { AlephAlpha } from '@lobehub/icons';
+import { AlephAlpha } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

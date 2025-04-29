@@ -9,7 +9,7 @@ description: https://florafauna.ai
 ## Icons
 
 ```tsx
-import { Flora } from '@lobehub/icons';
+import { Flora } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Flora size={64} />;
@@ -18,7 +18,7 @@ export default () => <Flora size={64} />;
 ## Text
 
 ```tsx
-import { Flora } from '@lobehub/icons';
+import { Flora } from '@bentwnghk/icons';
 
 export default () => <Flora.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Flora.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Flora } from '@lobehub/icons';
+import { Flora } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Flora } from '@lobehub/icons';
+import { Flora } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Flora } from '@lobehub/icons';
+import { Flora } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

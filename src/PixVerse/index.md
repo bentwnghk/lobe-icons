@@ -11,7 +11,7 @@ description: https://app.pixverse.ai
 ## Icons
 
 ```tsx
-import { PixVerse } from '@lobehub/icons';
+import { PixVerse } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -25,7 +25,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { PixVerse } from '@lobehub/icons';
+import { PixVerse } from '@bentwnghk/icons';
 
 export default () => <PixVerse.Text size={48} />;
 ```
@@ -33,7 +33,7 @@ export default () => <PixVerse.Text size={48} />;
 ## Combine
 
 ```tsx
-import { PixVerse } from '@lobehub/icons';
+import { PixVerse } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -47,7 +47,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { PixVerse } from '@lobehub/icons';
+import { PixVerse } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -62,7 +62,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { PixVerse } from '@lobehub/icons';
+import { PixVerse } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

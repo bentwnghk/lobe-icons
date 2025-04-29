@@ -9,7 +9,7 @@ description: https://sync.so
 ## Icons
 
 ```tsx
-import { Sync } from '@lobehub/icons';
+import { Sync } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Sync size={64} />;
@@ -18,7 +18,7 @@ export default () => <Sync size={64} />;
 ## Text
 
 ```tsx
-import { Sync } from '@lobehub/icons';
+import { Sync } from '@bentwnghk/icons';
 
 export default () => <Sync.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Sync.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Sync } from '@lobehub/icons';
+import { Sync } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Sync } from '@lobehub/icons';
+import { Sync } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Sync } from '@lobehub/icons';
+import { Sync } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

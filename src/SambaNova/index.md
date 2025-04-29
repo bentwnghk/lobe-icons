@@ -9,7 +9,7 @@ description: https://sambanova.ai
 ## Icons
 
 ```tsx
-import { SambaNova } from '@lobehub/icons';
+import { SambaNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { SambaNova } from '@lobehub/icons';
+import { SambaNova } from '@bentwnghk/icons';
 
 export default () => <SambaNova.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <SambaNova.Text size={48} />;
 ## Combine
 
 ```tsx
-import { SambaNova } from '@lobehub/icons';
+import { SambaNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { SambaNova } from '@lobehub/icons';
+import { SambaNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { SambaNova } from '@lobehub/icons';
+import { SambaNova } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

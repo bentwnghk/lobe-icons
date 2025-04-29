@@ -9,7 +9,7 @@ description: https://friendli.ai
 ## Icons
 
 ```tsx
-import { Friendli } from '@lobehub/icons';
+import { Friendli } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Friendli size={64} />;
@@ -18,7 +18,7 @@ export default () => <Friendli size={64} />;
 ## Text
 
 ```tsx
-import { Friendli } from '@lobehub/icons';
+import { Friendli } from '@bentwnghk/icons';
 
 export default () => <Friendli.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Friendli.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Friendli } from '@lobehub/icons';
+import { Friendli } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Friendli } from '@lobehub/icons';
+import { Friendli } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Friendli } from '@lobehub/icons';
+import { Friendli } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

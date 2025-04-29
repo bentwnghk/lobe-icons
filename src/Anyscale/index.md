@@ -9,7 +9,7 @@ description: https://anyscale.com
 ## Icons
 
 ```tsx
-import { Anyscale } from '@lobehub/icons';
+import { Anyscale } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Anyscale } from '@lobehub/icons';
+import { Anyscale } from '@bentwnghk/icons';
 
 export default () => <Anyscale.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Anyscale.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Anyscale } from '@lobehub/icons';
+import { Anyscale } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Anyscale } from '@lobehub/icons';
+import { Anyscale } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Anyscale } from '@lobehub/icons';
+import { Anyscale } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

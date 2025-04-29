@@ -9,7 +9,7 @@ description: https://hyperbolic.xyz
 ## Icons
 
 ```tsx
-import { Hyperbolic } from '@lobehub/icons';
+import { Hyperbolic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Hyperbolic } from '@lobehub/icons';
+import { Hyperbolic } from '@bentwnghk/icons';
 
 export default () => <Hyperbolic.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Hyperbolic.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Hyperbolic } from '@lobehub/icons';
+import { Hyperbolic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Hyperbolic } from '@lobehub/icons';
+import { Hyperbolic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Hyperbolic } from '@lobehub/icons';
+import { Hyperbolic } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

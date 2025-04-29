@@ -9,7 +9,7 @@ description: https://searchapi.io
 ## Icons
 
 ```tsx
-import { SearchApi } from '@lobehub/icons';
+import { SearchApi } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <SearchApi size={64} />;
@@ -18,7 +18,7 @@ export default () => <SearchApi size={64} />;
 ## Text
 
 ```tsx
-import { SearchApi } from '@lobehub/icons';
+import { SearchApi } from '@bentwnghk/icons';
 
 export default () => <SearchApi.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <SearchApi.Text size={48} />;
 ## Combine
 
 ```tsx
-import { SearchApi } from '@lobehub/icons';
+import { SearchApi } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { SearchApi } from '@lobehub/icons';
+import { SearchApi } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { SearchApi } from '@lobehub/icons';
+import { SearchApi } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

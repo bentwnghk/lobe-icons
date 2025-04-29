@@ -9,7 +9,7 @@ description: https://glif.app
 ## Icons
 
 ```tsx
-import { Glif } from '@lobehub/icons';
+import { Glif } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Glif size={64} />;
@@ -18,7 +18,7 @@ export default () => <Glif size={64} />;
 ## Text
 
 ```tsx
-import { Glif } from '@lobehub/icons';
+import { Glif } from '@bentwnghk/icons';
 
 export default () => <Glif.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Glif.Text size={48} />;
 ## Avatars
 
 ```tsx
-import { Glif } from '@lobehub/icons';
+import { Glif } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -40,7 +40,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Glif } from '@lobehub/icons';
+import { Glif } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://railway.com
 ## Icons
 
 ```tsx
-import { Railway } from '@lobehub/icons';
+import { Railway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Railway size={64} />;
@@ -18,7 +18,7 @@ export default () => <Railway size={64} />;
 ## Text
 
 ```tsx
-import { Railway } from '@lobehub/icons';
+import { Railway } from '@bentwnghk/icons';
 
 export default () => <Railway.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Railway.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Railway } from '@lobehub/icons';
+import { Railway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Railway } from '@lobehub/icons';
+import { Railway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -54,7 +54,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Railway } from '@lobehub/icons';
+import { Railway } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

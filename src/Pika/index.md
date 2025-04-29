@@ -9,7 +9,7 @@ description: https://pika.art
 ## Icons
 
 ```tsx
-import { Pika } from '@lobehub/icons';
+import { Pika } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Pika size={64} />;
@@ -18,7 +18,7 @@ export default () => <Pika size={64} />;
 ## Text
 
 ```tsx
-import { Pika } from '@lobehub/icons';
+import { Pika } from '@bentwnghk/icons';
 
 export default () => <Pika.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Pika.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Pika } from '@lobehub/icons';
+import { Pika } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Pika } from '@lobehub/icons';
+import { Pika } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Pika } from '@lobehub/icons';
+import { Pika } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://rsshub.app
 ## Icons
 
 ```tsx
-import { RSSHub } from '@lobehub/icons';
+import { RSSHub } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { RSSHub } from '@lobehub/icons';
+import { RSSHub } from '@bentwnghk/icons';
 
 export default () => <RSSHub.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <RSSHub.Text size={48} />;
 ## Combine
 
 ```tsx
-import { RSSHub } from '@lobehub/icons';
+import { RSSHub } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { RSSHub } from '@lobehub/icons';
+import { RSSHub } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { RSSHub } from '@lobehub/icons';
+import { RSSHub } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://lightricks.com
 ## Icons
 
 ```tsx
-import { Lightricks } from '@lobehub/icons';
+import { Lightricks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Lightricks size={64} />;
@@ -18,7 +18,7 @@ export default () => <Lightricks size={64} />;
 ## Text
 
 ```tsx
-import { Lightricks } from '@lobehub/icons';
+import { Lightricks } from '@bentwnghk/icons';
 
 export default () => <Lightricks.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Lightricks.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Lightricks } from '@lobehub/icons';
+import { Lightricks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Lightricks } from '@lobehub/icons';
+import { Lightricks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Lightricks } from '@lobehub/icons';
+import { Lightricks } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

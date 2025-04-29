@@ -9,7 +9,7 @@ description: https://kera.ai
 ## Icons
 
 ```tsx
-import { Kera } from '@lobehub/icons';
+import { Kera } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Kera size={64} />;
@@ -18,7 +18,7 @@ export default () => <Kera size={64} />;
 ## Text
 
 ```tsx
-import { Kera } from '@lobehub/icons';
+import { Kera } from '@bentwnghk/icons';
 
 export default () => <Kera.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Kera.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Kera } from '@lobehub/icons';
+import { Kera } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Kera } from '@lobehub/icons';
+import { Kera } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Kera } from '@lobehub/icons';
+import { Kera } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

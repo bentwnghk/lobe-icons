@@ -9,7 +9,7 @@ description: https://lambdalabs.com
 ## Icons
 
 ```tsx
-import { Lambda } from '@lobehub/icons';
+import { Lambda } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Lambda size={64} />;
@@ -18,7 +18,7 @@ export default () => <Lambda size={64} />;
 ## Text
 
 ```tsx
-import { Lambda } from '@lobehub/icons';
+import { Lambda } from '@bentwnghk/icons';
 
 export default () => <Lambda.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Lambda.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Lambda } from '@lobehub/icons';
+import { Lambda } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Lambda } from '@lobehub/icons';
+import { Lambda } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Lambda } from '@lobehub/icons';
+import { Lambda } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

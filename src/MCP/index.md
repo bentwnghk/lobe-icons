@@ -9,7 +9,7 @@ description: https://modelcontextprotocol.io
 ## Icons
 
 ```tsx
-import { MCP } from '@lobehub/icons';
+import { MCP } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <MCP size={64} />;
@@ -18,7 +18,7 @@ export default () => <MCP size={64} />;
 ## Text
 
 ```tsx
-import { MCP } from '@lobehub/icons';
+import { MCP } from '@bentwnghk/icons';
 
 export default () => <MCP.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <MCP.Text size={48} />;
 ## Combine
 
 ```tsx
-import { MCP } from '@lobehub/icons';
+import { MCP } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { MCP } from '@lobehub/icons';
+import { MCP } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { MCP } from '@lobehub/icons';
+import { MCP } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

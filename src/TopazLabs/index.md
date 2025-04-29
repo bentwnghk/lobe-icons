@@ -9,7 +9,7 @@ description: https://topazlabs.com
 ## Icons
 
 ```tsx
-import { TopazLabs } from '@lobehub/icons';
+import { TopazLabs } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <TopazLabs size={64} />;
@@ -18,7 +18,7 @@ export default () => <TopazLabs size={64} />;
 ## Text
 
 ```tsx
-import { TopazLabs } from '@lobehub/icons';
+import { TopazLabs } from '@bentwnghk/icons';
 
 export default () => <TopazLabs.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <TopazLabs.Text size={48} />;
 ## Combine
 
 ```tsx
-import { TopazLabs } from '@lobehub/icons';
+import { TopazLabs } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { TopazLabs } from '@lobehub/icons';
+import { TopazLabs } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { TopazLabs } from '@lobehub/icons';
+import { TopazLabs } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

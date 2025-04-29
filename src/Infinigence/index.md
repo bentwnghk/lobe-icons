@@ -9,7 +9,7 @@ description: https://cloud.infini-ai.com
 ## Icons
 
 ```tsx
-import { Infinigence } from '@lobehub/icons';
+import { Infinigence } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Infinigence } from '@lobehub/icons';
+import { Infinigence } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -37,7 +37,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { Infinigence } from '@lobehub/icons';
+import { Infinigence } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -51,7 +51,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Infinigence } from '@lobehub/icons';
+import { Infinigence } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -65,7 +65,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Infinigence } from '@lobehub/icons';
+import { Infinigence } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

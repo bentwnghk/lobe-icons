@@ -9,7 +9,7 @@ description: https://liquid.ai
 ## Icons
 
 ```tsx
-import { Liquid } from '@lobehub/icons';
+import { Liquid } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Liquid size={64} />;
@@ -18,7 +18,7 @@ export default () => <Liquid size={64} />;
 ## Text
 
 ```tsx
-import { Liquid } from '@lobehub/icons';
+import { Liquid } from '@bentwnghk/icons';
 
 export default () => <Liquid.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Liquid.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Liquid } from '@lobehub/icons';
+import { Liquid } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Liquid } from '@lobehub/icons';
+import { Liquid } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Liquid } from '@lobehub/icons';
+import { Liquid } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

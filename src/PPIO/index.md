@@ -9,7 +9,7 @@ description: https://ppinfra.com
 ## Icons
 
 ```tsx
-import { PPIO } from '@lobehub/icons';
+import { PPIO } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { PPIO } from '@lobehub/icons';
+import { PPIO } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -37,7 +37,7 @@ export default () => (
 ## Combine
 
 ```tsx
-import { PPIO } from '@lobehub/icons';
+import { PPIO } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -51,7 +51,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { PPIO } from '@lobehub/icons';
+import { PPIO } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -65,7 +65,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { PPIO } from '@lobehub/icons';
+import { PPIO } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

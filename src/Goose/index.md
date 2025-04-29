@@ -9,7 +9,7 @@ description: https://block.github.io/goose
 ## Icons
 
 ```tsx
-import { Goose } from '@lobehub/icons';
+import { Goose } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Goose size={64} />;
@@ -18,7 +18,7 @@ export default () => <Goose size={64} />;
 ## Text
 
 ```tsx
-import { Goose } from '@lobehub/icons';
+import { Goose } from '@bentwnghk/icons';
 
 export default () => <Goose.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Goose.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Goose } from '@lobehub/icons';
+import { Goose } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Goose } from '@lobehub/icons';
+import { Goose } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Goose } from '@lobehub/icons';
+import { Goose } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

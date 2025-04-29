@@ -9,7 +9,7 @@ description: https://manus.im
 ## Icons
 
 ```tsx
-import { Manus } from '@lobehub/icons';
+import { Manus } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Manus size={64} />;
@@ -18,7 +18,7 @@ export default () => <Manus size={64} />;
 ## Text
 
 ```tsx
-import { Manus } from '@lobehub/icons';
+import { Manus } from '@bentwnghk/icons';
 
 export default () => <Manus.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Manus.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Manus } from '@lobehub/icons';
+import { Manus } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Manus } from '@lobehub/icons';
+import { Manus } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Manus } from '@lobehub/icons';
+import { Manus } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

@@ -9,7 +9,7 @@ description: https://inflection.ai
 ## Icons
 
 ```tsx
-import { Inflection } from '@lobehub/icons';
+import { Inflection } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Inflection size={64} />;
@@ -18,7 +18,7 @@ export default () => <Inflection size={64} />;
 ## Text
 
 ```tsx
-import { Inflection } from '@lobehub/icons';
+import { Inflection } from '@bentwnghk/icons';
 
 export default () => <Inflection.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Inflection.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Inflection } from '@lobehub/icons';
+import { Inflection } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Inflection } from '@lobehub/icons';
+import { Inflection } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Inflection } from '@lobehub/icons';
+import { Inflection } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

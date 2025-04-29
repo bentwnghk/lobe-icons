@@ -9,7 +9,7 @@ description: https://doc2x.noedgeai.com
 ## Icons
 
 ```tsx
-import { Doc2X } from '@lobehub/icons';
+import { Doc2X } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Doc2X } from '@lobehub/icons';
+import { Doc2X } from '@bentwnghk/icons';
 
 export default () => <Doc2X.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Doc2X.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Doc2X } from '@lobehub/icons';
+import { Doc2X } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -45,7 +45,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Doc2X } from '@lobehub/icons';
+import { Doc2X } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -59,7 +59,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Doc2X } from '@lobehub/icons';
+import { Doc2X } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

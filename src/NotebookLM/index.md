@@ -9,7 +9,7 @@ description: https://notebooklm.google
 ## Icons
 
 ```tsx
-import { NotebookLM } from '@lobehub/icons';
+import { NotebookLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <NotebookLM size={64} />;
@@ -18,7 +18,7 @@ export default () => <NotebookLM size={64} />;
 ## Text
 
 ```tsx
-import { NotebookLM } from '@lobehub/icons';
+import { NotebookLM } from '@bentwnghk/icons';
 
 export default () => <NotebookLM.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <NotebookLM.Text size={48} />;
 ## Combine
 
 ```tsx
-import { NotebookLM } from '@lobehub/icons';
+import { NotebookLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { NotebookLM } from '@lobehub/icons';
+import { NotebookLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { NotebookLM } from '@lobehub/icons';
+import { NotebookLM } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

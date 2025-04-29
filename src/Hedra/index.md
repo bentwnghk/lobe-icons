@@ -9,7 +9,7 @@ description: https://hedra.com
 ## Icons
 
 ```tsx
-import { Hedra } from '@lobehub/icons';
+import { Hedra } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Hedra size={64} />;
@@ -18,7 +18,7 @@ export default () => <Hedra size={64} />;
 ## Text
 
 ```tsx
-import { Hedra } from '@lobehub/icons';
+import { Hedra } from '@bentwnghk/icons';
 
 export default () => <Hedra.Text size={48} />;
 ```
@@ -26,7 +26,7 @@ export default () => <Hedra.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Hedra } from '@lobehub/icons';
+import { Hedra } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -39,7 +39,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Hedra } from '@lobehub/icons';
+import { Hedra } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Hedra } from '@lobehub/icons';
+import { Hedra } from '@bentwnghk/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';
