@@ -2,6 +2,31 @@
 
 # Changelog
 
+## [Version 2.1.0](https://github.com/bentwnghk/lobe-icons/compare/v2.0.0...v2.1.0)
+
+<sup>Released on **2025-05-15**</sup>
+
+#### ✨ Features
+
+- **auto**: Auto build static icons.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **auto**: Auto build static icons ([eb27b27](https://github.com/bentwnghk/lobe-icons/commit/eb27b27))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 2.0.0](https://github.com/bentwnghk/lobe-icons/compare/v1.24.0...v2.0.0)
 
 <sup>Released on **2025-04-29**</sup>
