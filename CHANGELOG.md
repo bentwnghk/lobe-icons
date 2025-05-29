@@ -2,14 +2,13 @@
 
 # Changelog
 
-## [Version 2.2.0](https://github.com/bentwnghk/lobe-icons/compare/v2.1.0...v2.2.0)
+## [Version 2.2.0](https://github.com/lobehub/lobe-icons/compare/v2.1.0...v2.2.0)
 
-<sup>Released on **2025-05-21**</sup>
+<sup>Released on **2025-05-28**</sup>
 
 #### ✨ Features
 
-- **auto**: Auto build static icons.
-- **misc**: Support fal provider icon and combine.
+- **misc**: Support imagen series model icon.
 
 <br/>
 
@@ -18,8 +17,7 @@
 
 #### What's improved
 
-- **auto**: Auto build static icons ([8e420b5](https://github.com/bentwnghk/lobe-icons/commit/8e420b5))
-- **misc**: Support fal provider icon and combine ([1d7d4df](https://github.com/bentwnghk/lobe-icons/commit/1d7d4df))
+- **misc**: Support imagen series model icon, closes [#114](https://github.com/lobehub/lobe-icons/issues/114) ([a6f19f1](https://github.com/lobehub/lobe-icons/commit/a6f19f1))
 
 </details>
 
