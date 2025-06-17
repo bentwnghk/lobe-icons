@@ -1,6 +1,7 @@
 export enum ModelProvider {
   Ai21 = 'ai21',
   Ai360 = 'ai360',
+  AiHubMix = 'aihubmix',
   Anthropic = 'anthropic',
   Azure = 'azure',
   AzureAI = 'azureai',
@@ -35,6 +36,7 @@ export enum ModelProvider {
   OpenRouter = 'openrouter',
   PPIO = 'ppio',
   Perplexity = 'perplexity',
+  Player2 = 'Player2',
   Qiniu = 'qiniu',
   Qwen = 'qwen',
   SambaNova = 'sambanova',

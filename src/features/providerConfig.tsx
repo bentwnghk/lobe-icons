@@ -3,7 +3,9 @@ import { FC, memo } from 'react';
 
 import Ai21 from '@/Ai21';
 import Ai360 from '@/Ai360';
+import AiHubMix from '@/AiHubMix';
 import AiMass from '@/AiMass';
+import AlibabaCloud from '@/AlibabaCloud';
 import Anthropic from '@/Anthropic';
 import Aws from '@/Aws';
 import Azure from '@/Azure';
@@ -42,6 +44,7 @@ import OpenAI from '@/OpenAI';
 import OpenRouter from '@/OpenRouter';
 import PPIO from '@/PPIO';
 import Perplexity from '@/Perplexity';
+import Player2 from '@/Player2';
 import Qiniu from '@/Qiniu';
 import Qwen from '@/Qwen';
 import SambaNova from '@/SambaNova';
@@ -159,7 +162,19 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: ZeroOne, combineMultiple: 0.9, keywords: [ModelProvider.ZeroOne] },
   { Icon: Together, keywords: [ModelProvider.TogetherAI] },
   { Icon: Qiniu, combineMultiple: 1.1, keywords: [ModelProvider.Qiniu] },
-  { Icon: Qwen, keywords: [ModelProvider.Qwen] },
+  {
+    Combine: memo(({ size = 24, type = 'color', ...props }) => (
+      <Combine
+        left={<AlibabaCloud.Combine size={size} type={type} />}
+        right={<Qwen.Combine size={size * 0.9} type={type} />}
+        size={size}
+        {...props}
+      />
+    )),
+    Icon: AlibabaCloud,
+    combineMultiple: 1.1,
+    keywords: [ModelProvider.Qwen],
+  },
   { Icon: Stepfun, combineMultiple: 0.83, keywords: [ModelProvider.Stepfun] },
   { Icon: Spark, combineMultiple: 0.92, keywords: [ModelProvider.Spark] },
   { Icon: Fireworks, combineMultiple: 1.14, keywords: [ModelProvider.FireworksAI] },
@@ -169,6 +184,7 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: SiliconCloud, combineMultiple: 0.75, keywords: [ModelProvider.SiliconCloud] },
   { Icon: Upstage, combineMultiple: 0.9, keywords: [ModelProvider.Upstage] },
   { Icon: Ai21, combineMultiple: 0.9, keywords: [ModelProvider.Ai21] },
+  { Icon: Player2, combineMultiple: 0.9, keywords: [ModelProvider.Player2] },
   { Icon: Github, combineMultiple: 0.95, keywords: [ModelProvider.Github] },
   { Icon: Doubao, keywords: [ModelProvider.Doubao] },
   { Icon: Hunyuan, keywords: [ModelProvider.Hunyuan] },
@@ -219,4 +235,5 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: Infinigence, combineMultiple: 0.8, keywords: [ModelProvider.InfiniAI] },
   { Icon: Xinference, combineMultiple: 0.85, keywords: [ModelProvider.Xinference] },
   { Icon: Fal, keywords: [ModelProvider.Fal] },
+  { Icon: AiHubMix, combineMultiple: 0.9, keywords: [ModelProvider.AiHubMix] },
 ];

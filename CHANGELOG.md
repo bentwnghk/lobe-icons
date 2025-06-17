@@ -2,13 +2,13 @@
 
 # Changelog
 
-## [Version 2.3.0](https://github.com/bentwnghk/lobe-icons/compare/v2.2.0...v2.3.0)
+## [Version 2.4.0](https://github.com/lobehub/lobe-icons/compare/v2.3.0...v2.4.0)
 
-<sup>Released on **2025-05-29**</sup>
+<sup>Released on **2025-06-11**</sup>
 
 #### ✨ Features
 
-- **misc**: Support imagen series model icon.
+- **misc**: Add BurnCloud, Player2, Trae, Baseten, NovelAI.
 
 <br/>
 
@@ -17,7 +17,66 @@
 
 #### What's improved
 
-- **misc**: Support imagen series model icon, closes [#114](https://github.com/bentwnghk/lobe-icons/issues/114) ([a6f19f1](https://github.com/bentwnghk/lobe-icons/commit/a6f19f1))
+- **misc**: Add BurnCloud, Player2, Trae, Baseten, NovelAI, closes [#122](https://github.com/lobehub/lobe-icons/issues/122) [#120](https://github.com/lobehub/lobe-icons/issues/120) [#121](https://github.com/lobehub/lobe-icons/issues/121) ([eb00bda](https://github.com/lobehub/lobe-icons/commit/eb00bda))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 2.3.0](https://github.com/lobehub/lobe-icons/compare/v2.2.1...v2.3.0)
+
+<sup>Released on **2025-06-03**</sup>
+
+#### ✨ Features
+
+- **misc**: Add 'platform' type to Avatar and extend model icon mappings for new platforms, Adjust Qwen icon size and AiHubMix combineMultiple for consistency.
+
+#### 💄 Styles
+
+- **misc**: Add aihubmix.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add 'platform' type to Avatar and extend model icon mappings for new platforms ([410d287](https://github.com/lobehub/lobe-icons/commit/410d287))
+- **misc**: Adjust Qwen icon size and AiHubMix combineMultiple for consistency ([3935e97](https://github.com/lobehub/lobe-icons/commit/3935e97))
+
+#### Styles
+
+- **misc**: Add aihubmix, closes [#117](https://github.com/lobehub/lobe-icons/issues/117) ([1937621](https://github.com/lobehub/lobe-icons/commit/1937621))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 2.2.1](https://github.com/lobehub/lobe-icons/compare/v2.2.0...v2.2.1)
+
+<sup>Released on **2025-06-02**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add AlibabaCloud icon for Qwen.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add AlibabaCloud icon for Qwen, closes [#116](https://github.com/lobehub/lobe-icons/issues/116) ([7459c07](https://github.com/lobehub/lobe-icons/commit/7459c07))
 
 </details>
 
